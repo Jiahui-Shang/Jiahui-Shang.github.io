@@ -10,6 +10,13 @@
     "startSite":"11/18/2024",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
-    "rssSplit":"sentence"
+    "rssSplit":"sentence",
+    "indexStyle":"body {
+    background-image: url('https://api.nguaduot.cn/glutton/today');
+    background-size: cover; /* 让背景图片覆盖整个页面 */
+    background-position: center; /* 图片居中显示 */
+    background-repeat: no-repeat; /* 不重复显示图片 */
+}
+"
 }
     
