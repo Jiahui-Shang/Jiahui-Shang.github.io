@@ -1,22 +1,14 @@
 {
     "title":"煎饼狗子",
-    "subTitle":"You complete me !",
+    "subTitle":"You complete me!",
     "avatarUrl":"https://everett.fun/upload/71096960118633b279c31117d9aeff6.jpg",
     "GMEEK_VERSION":"last",
     "bottomText":"转载请注明出处",
     "onePageListNum":15,
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "singlePage":["about"],
     "startSite":"11/18/2024",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "rssSplit":"sentence",
-    "indexStyle":"body {
-    background-image: url('https://api.nguaduot.cn/glutton/today');
-    background-size: cover; /* 让背景图片覆盖整个页面 */
-    background-position: center; /* 图片居中显示 */
-    background-repeat: no-repeat; /* 不重复显示图片 */
+    "indexStyle":"body {\n    background-image: url('https://api.nguaduot.cn/glutton/today');\n    background-size: cover; /* 让背景图片覆盖整个页面 */\n    background-position: center; /* 图片居中显示 */\n    background-repeat: no-repeat; /* 不重复显示图片 */\n}"
 }
-"
-}
-    
