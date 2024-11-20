@@ -9,6 +9,5 @@
     "singlePage":["about"],
     "startSite":"11/18/2024",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
-    "rssSplit":"sentence",
-    "indexStyle":"body {\n    background-image: url('https://api.nguaduot.cn/glutton/today');\n    background-size: cover; /* 让背景图片覆盖整个页面 */\n    background-position: center; /* 图片居中显示 */\n    background-repeat: no-repeat; /* 不重复显示图片 */\n}"
+    "rssSplit":"sentence"
 }
