@@ -3,6 +3,7 @@
     "subTitle":"我本可以忍受黑暗，可是我看见了光明。",
     "avatarUrl":"https://everett.fun/upload/71096960118633b279c31117d9aeff6.jpg",
     "GMEEK_VERSION":"last",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "bottomText":"转载请注明出处",
     "onePageListNum":15,
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
@@ -10,7 +11,5 @@
     "startSite":"11/18/2024",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "rssSplit":"sentence",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"
 }
