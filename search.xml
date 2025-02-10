@@ -39,9 +39,9 @@
     
     
     <entry>
-      <title>归档</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -50,9 +50,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>归档</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -65,7 +65,18 @@
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>以下是一个详细的Butterfly主题关于页面示例及注意事项，包含多种主题特性和使用场景：</p><h2 id="1-关于页面示例"><a href="#1-关于页面示例" class="headerlink" title="1. 关于页面示例"></a>1. 关于页面示例</h2><!-- 注意：以下内容需要主题配置支持相关功能 --><h1 id="👋-我是-你的名字"><a href="#👋-我是-你的名字" class="headerlink" title="👋 我是[你的名字]"></a>👋 我是[你的名字]</h1><p><img src="/img/avatar.png" alt="个人头像">{style&#x3D;”width:200px;border-radius:50%;float:right;margin-left:20px;”}</p><p><strong>全栈开发者 | 技术博主 | 开源贡献者</strong></p><p>📍 坐标：中国北京<br>📧 邮箱：<a href="mailto:&#121;&#x6f;&#117;&#x72;&#x6e;&#x61;&#109;&#x65;&#x40;&#x65;&#x78;&#97;&#x6d;&#x70;&#108;&#x65;&#x2e;&#x63;&#x6f;&#x6d;">yourname@example.com</a><br>🌐 个人网站：<a href="https://example.com/">example.com</a></p><hr><h2 id="🛠-技术栈"><a href="#🛠-技术栈" class="headerlink" title="🛠 技术栈"></a>🛠 技术栈</h2><pre class="mermaid">pie    title 技术分布    "JavaScript" : 35    "Python" : 25    "Java" : 20    "Go" : 15    "其他" : 5</pre><blockquote><p>注：需要安装mermaid插件并启用主题配置中的mermaid支持</p></blockquote><hr><h2 id="🎯-专业技能"><a href="#🎯-专业技能" class="headerlink" title="🎯 专业技能"></a>🎯 专业技能</h2><h3 id="前端开发"><a href="#前端开发" class="headerlink" title="前端开发"></a>前端开发</h3><ul><li>Vue&#x2F;React框架开发</li><li>Webpack&#x2F;Vite构建优化</li><li>前端性能优化（首屏加载&lt;1s）</li></ul><h3 id="后端开发"><a href="#后端开发" class="headerlink" title="后端开发"></a>后端开发</h3><div class="note success flat"><p>✅ Node.js (Express&#x2F;NestJS)<br>✅ Python (Django&#x2F;Flask)<br>✅ 微服务架构设计</p></div><hr><h2 id="📚-开源项目"><a href="#📚-开源项目" class="headerlink" title="📚 开源项目"></a>📚 开源项目</h2><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"/img/project1.png","alt":"项目1","title":""},{"url":"/img/project2.png","alt":"项目2","title":""},{"url":"/img/project3.png","alt":"项目3","title":""}]</div>  </div><ul><li><a href="https://github.com/xxx">Hexo-Plugin-Awesome</a>：⭐️ 3k+ stars的Hexo插件</li><li><a href="https://github.com/xxx">Vue3-Admin</a>：基于Vue3的后台管理系统模板</li></ul><hr><h2 id="📈-技术文章统计"><a href="#📈-技术文章统计" class="headerlink" title="📈 技术文章统计"></a>📈 技术文章统计</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;type&quot;: &quot;bar&quot;,</span><br><span class="line">    &quot;data&quot;: &#123;</span><br><span class="line">        &quot;labels&quot;: [&quot;2020&quot;, &quot;2021&quot;, &quot;2022&quot;, &quot;2023&quot;],</span><br><span class="line">        &quot;datasets&quot;: [&#123;</span><br><span class="line">            &quot;label&quot;: &quot;年产出文章数&quot;,</span><br><span class="line">            &quot;data&quot;: [12, 24, 36, 28],</span><br><span class="line">            &quot;backgroundColor&quot;: [&quot;#4e79a7&quot;]</span><br><span class="line">        &#125;]</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><hr><h2 id="🌐-社交链接"><a href="#🌐-社交链接" class="headerlink" title="🌐 社交链接"></a>🌐 社交链接</h2><div class="social-links" style="display: flex;gap: 15px;">    <a href=" " target="_blank">        <i class="fab fa-github"></i> GitHub    </a >    <a href="https://twitter.com/yourname" target="_blank">        <i class="fab fa-twitter"></i> Twitter    </a >    <a href="/atom.xml" target="_blank">        <i class="fas fa-rss"></i> RSS订阅    </a ></div><hr><h2 id="📌-置顶说明"><a href="#📌-置顶说明" class="headerlink" title="📌 置顶说明"></a>📌 置顶说明</h2><div class="note warning flat"><p>⚠️ 本站采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> 协议<br>⚠️ 转载文章请注明出处</p></div>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="1-关于"><a href="#1-关于" class="headerlink" title="1. 关于"></a>1. 关于</h2><!-- 注意：以下内容需要主题配置支持相关功能 --><h1 id="👋-我是Everett"><a href="#👋-我是Everett" class="headerlink" title="👋 我是Everett"></a>👋 我是Everett</h1><blockquote><p>一个热爱技术的前端开发者</p></blockquote><p>📍 坐标：中国福建<br>📧 邮箱：<a href="mailto:&#x73;&#x30;&#x36;&#48;&#x35;&#x30;&#x33;&#106;&#x68;&#64;&#49;&#54;&#x33;&#46;&#x63;&#x6f;&#x6d;">s060503jh@163.com</a>  </p><hr><h2 id="🛠-技术栈"><a href="#🛠-技术栈" class="headerlink" title="🛠 技术栈"></a>🛠 技术栈</h2><pre class="mermaid">graph LR    A[Vue] --> B[React]    B --> C[Node.js]    C --> D[Python]</pre><h2 id="🎯-专业技能"><a href="#🎯-专业技能" class="headerlink" title="🎯 专业技能"></a>🎯 专业技能</h2><h3 id="前端开发"><a href="#前端开发" class="headerlink" title="前端开发"></a>前端开发</h3><ul><li>Vue&#x2F;React框架开发</li><li>Webpack&#x2F;Vite构建优化</li><li>前端性能优化（首屏加载&lt;1s）</li></ul><h3 id="后端开发"><a href="#后端开发" class="headerlink" title="后端开发"></a>后端开发</h3><div class="note success flat"><p>✅ Node.js (Express&#x2F;NestJS)<br>✅ Python (Django&#x2F;Flask)<br>✅ 微服务架构设计</p></div><hr><h2 id="📚-图片"><a href="#📚-图片" class="headerlink" title="📚 图片"></a>📚 图片</h2><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://www.helloimg.com/i/2025/02/09/67a80ed6879ea.png","alt":"项目1","title":""},{"url":"https://www.helloimg.com/i/2024/12/17/6760c16949651.png","alt":"项目2","title":""},{"url":"https://www.helloimg.com/i/2025/02/10/67a9546b13b83.jpg","alt":"项目3","title":""}]</div>  </div><hr><h2 id="🌐-社交链接"><a href="#🌐-社交链接" class="headerlink" title="🌐 社交链接"></a>🌐 社交链接</h2><div class="social-links" style="display: flex;gap: 15px;">    <a href="https://github.com/Jiahui-Shang/" target="_blank">        <i class="fab fa-github"></i> GitHub    </a >    <a href="/atom.xml" target="_blank">        <i class="fas fa-rss"></i> RSS订阅    </a ></div><hr><h2 id="📌-置顶说明"><a href="#📌-置顶说明" class="headerlink" title="📌 置顶说明"></a>📌 置顶说明</h2><div class="note warning flat"><p>⚠️ 本站采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> 协议<br>⚠️ 转载文章请注明出处</p></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
@@ -83,9 +94,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -97,17 +108,6 @@
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
