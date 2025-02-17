@@ -70,9 +70,9 @@
       
         <tags>
             
-            <tag> 地理 </tag>
-            
             <tag> 人工智能 </tag>
+            
+            <tag> 地理 </tag>
             
             <tag> DeepSeek </tag>
             
@@ -124,11 +124,11 @@
       
         <tags>
             
+            <tag> 地理 </tag>
+            
             <tag> 开源 </tag>
             
             <tag> 天文 </tag>
-            
-            <tag> 地理 </tag>
             
             <tag> 前端 </tag>
             
@@ -210,11 +210,22 @@
     
     
     <entry>
+      <title>归档</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<style>  #libCategories .card-wrap:hover .card-info:after {    width: 300%;  }</style><link rel="stylesheet" type="text/css" href="https://npm.elemecdn.com/js-heo@1.0.11/3dCard/no3d.css"><div id='libCategories'><div id="lib-cards" class="container"><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/AI/")'><card data-image="https://tse1-mm.cn.bing.net/th/id/OIP-C.vpk0QN6gR2_ruPRYO5kKoAHaE8?rs=1&pid=ImgDetMain"><h1 slot="header">人工智能</h1><p slot="content">与AI相关的文章</p></card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/笔记/")'>  <card data-image="https://img.51miz.com/Photo/2017/05/19/05/P1104383_ab92c6e7120de4843ae86772ea9127e7.jpg">    <h1 slot="header">笔记</h1>    <p slot="content">学习的证明</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/生活/")'>  <card data-image="https://img02.anheyu.com/adminuploads/1/2022/09/05/6315e142a69a9.webp">    <h1 slot="header">生活</h1>    <p slot="content">经历的有趣事</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/地理/")'>  <card data-image="https://pic1.zhimg.com/v2-f1cd63164d1ff922c286ff631cb22f9b_1440w.jpg?source=172ae18b">    <h1 slot="header">地理</h1>    <p slot="content">我喜欢的科目</p>  </card></a></div></div><script src='https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.14/vue.min.js' data-pjax></script><script type="text/javascript" src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.7/no3d/no3d.js" data-pjax></script>]]></content>
       
     </entry>
     
@@ -243,11 +254,11 @@
     
     
     <entry>
-      <title>归档</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><a href="https://ldd21.github.io/">https://ldd21.github.io/</a></p>]]></content>
       
     </entry>
     
@@ -265,11 +276,11 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<p><a href="https://ldd21.github.io/">https://ldd21.github.io/</a></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -279,17 +290,6 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
