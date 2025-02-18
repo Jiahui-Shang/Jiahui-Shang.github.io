@@ -16,13 +16,13 @@ http://jiahui-shang.github.io/movies/index.html
 http://jiahui-shang.github.io/archives/index.html
 http://jiahui-shang.github.io/tags/index.html
 http://jiahui-shang.github.io/
+http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/
 http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/
+http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/
+http://jiahui-shang.github.io/tags/DeepSeek/
 http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/
 http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/
-http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/
 http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/
-http://jiahui-shang.github.io/tags/DeepSeek/
-http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/
 http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/
 http://jiahui-shang.github.io/categories/AI/
 http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/
