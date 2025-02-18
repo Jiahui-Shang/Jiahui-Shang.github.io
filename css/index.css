@@ -16332,7 +16332,7 @@ li.card-category-list-item {
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 7777;
+  z-index: 6666;
   pointer-events: none;
 }
 .medium-zoom-image--opened {
