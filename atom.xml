@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Everett</title>
+  
+  <subtitle>煎饼狗子</subtitle>
+  <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://jiahui-shang.github.io/"/>
+  <updated>2025-02-18T05:55:19.268Z</updated>
+  <id>http://jiahui-shang.github.io/</id>
+  
+  <author>
+    <name>Everett</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自用Alist美化</title>
+    <link href="http://jiahui-shang.github.io/2025/02/17/%E8%87%AA%E7%94%A8Alist%E7%BE%8E%E5%8C%96/"/>
+    <id>http://jiahui-shang.github.io/2025/02/17/%E8%87%AA%E7%94%A8Alist%E7%BE%8E%E5%8C%96/</id>
+    <published>2025-02-17T02:38:00.000Z</published>
+    <updated>2025-02-18T05:55:19.268Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="教程" scheme="http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>步入正轨</title>
+    <link href="http://jiahui-shang.github.io/2025/02/16/%E6%AD%A5%E5%85%A5%E6%AD%A3%E8%BD%A8/"/>
+    <id>http://jiahui-shang.github.io/2025/02/16/%E6%AD%A5%E5%85%A5%E6%AD%A3%E8%BD%A8/</id>
+    <published>2025-02-16T03:11:00.000Z</published>
+    <updated>2025-02-17T07:53:04.659Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>地质笔记</title>
+    <link href="http://jiahui-shang.github.io/2025/02/15/%E5%9C%B0%E8%B4%A8%E7%AC%94%E8%AE%B0/"/>
+    <id>http://jiahui-shang.github.io/2025/02/15/%E5%9C%B0%E8%B4%A8%E7%AC%94%E8%AE%B0/</id>
+    <published>2025-02-15T06:45:25.000Z</published>
+    <updated>2025-02-15T06:51:02.943Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
+    
+    
+    <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
+    
+    <category term="DeepSeek" scheme="http://jiahui-shang.github.io/tags/DeepSeek/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>怎么写文章</title>
+    <link href="http://jiahui-shang.github.io/2025/02/15/%E6%80%8E%E4%B9%88%E5%86%99%E6%96%87%E7%AB%A0/"/>
+    <id>http://jiahui-shang.github.io/2025/02/15/%E6%80%8E%E4%B9%88%E5%86%99%E6%96%87%E7%AB%A0/</id>
+    <published>2025-02-15T06:13:28.000Z</published>
+    <updated>2025-02-15T07:05:29.792Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="教程" scheme="http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用星空解锁地理坐标的开源魔法</title>
+    <link href="http://jiahui-shang.github.io/2025/02/11/%E7%94%A8%E6%98%9F%E7%A9%BA%E8%A7%A3%E9%94%81%E5%9C%B0%E7%90%86%E5%9D%90%E6%A0%87%E7%9A%84%E5%BC%80%E6%BA%90%E9%AD%94%E6%B3%95/"/>
+    <id>http://jiahui-shang.github.io/2025/02/11/%E7%94%A8%E6%98%9F%E7%A9%BA%E8%A7%A3%E9%94%81%E5%9C%B0%E7%90%86%E5%9D%90%E6%A0%87%E7%9A%84%E5%BC%80%E6%BA%90%E9%AD%94%E6%B3%95/</id>
+    <published>2025-02-11T10:08:01.000Z</published>
+    <updated>2025-02-15T03:02:12.046Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
+    
+    
+    <category term="开源" scheme="http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/"/>
+    
+    <category term="天文" scheme="http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/"/>
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
+    
+    <category term="前端" scheme="http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用Markdown编织思想：一个技术写作者的效率革命</title>
+    <link href="http://jiahui-shang.github.io/2025/02/10/Deekseek%E7%94%9F%E6%88%90/"/>
+    <id>http://jiahui-shang.github.io/2025/02/10/Deekseek%E7%94%9F%E6%88%90/</id>
+    <published>2025-02-10T03:50:28.000Z</published>
+    <updated>2025-02-10T03:59:01.244Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="AI" scheme="http://jiahui-shang.github.io/categories/AI/"/>
+    
+    
+    <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何使用Hexo写文章？</title>
+    <link href="http://jiahui-shang.github.io/2025/02/09/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Hexo%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%9F/"/>
+    <id>http://jiahui-shang.github.io/2025/02/09/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Hexo%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%9F/</id>
+    <published>2025-02-09T08:27:42.000Z</published>
+    <updated>2025-02-15T05:53:30.796Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://jiahui-shang.github.io/2025/02/08/hello-world/"/>
+    <id>http://jiahui-shang.github.io/2025/02/08/hello-world/</id>
+    <published>2025-02-08T13:21:57.477Z</published>
+    <updated>2025-02-15T07:11:51.618Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
