@@ -6,7 +6,7 @@
   <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiahui-shang.github.io/"/>
-  <updated>2025-02-18T05:55:19.268Z</updated>
+  <updated>2025-02-19T00:28:53.493Z</updated>
   <id>http://jiahui-shang.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>勤备份，少流泪</title>
+    <link href="http://jiahui-shang.github.io/2025/02/18/%E8%AE%B0%E5%BD%95%E9%AD%94%E6%94%B9/"/>
+    <id>http://jiahui-shang.github.io/2025/02/18/%E8%AE%B0%E5%BD%95%E9%AD%94%E6%94%B9/</id>
+    <published>2025-02-18T14:44:00.000Z</published>
+    <updated>2025-02-19T00:28:53.493Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h3 id=&quot;备份如保险，丢失无泪流&quot;&gt;&lt;a href=&quot;#备份如保险，丢失无泪流&quot; class=&quot;headerlink&quot; title=&quot;备份如保险，丢失无泪流&quot;&gt;&lt;/a&gt;备份如保险，丢失无泪流&lt;/h3&gt;&lt;p&gt;由于最近主题魔改了许多，为了防止我往后脑子容量不足，自动删除，因此写下此篇笔记，供未来参考。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>自用Alist美化</title>
@@ -141,11 +162,11 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
-    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
-    
     <category term="开源" scheme="http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/"/>
     
     <category term="天文" scheme="http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/"/>
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
     
     <category term="前端" scheme="http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
