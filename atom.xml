@@ -6,7 +6,7 @@
   <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiahui-shang.github.io/"/>
-  <updated>2025-02-22T10:48:01.469Z</updated>
+  <updated>2025-02-23T04:37:59.648Z</updated>
   <id>http://jiahui-shang.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一篇随记</title>
+    <link href="http://jiahui-shang.github.io/2025/02/23/%E4%B8%80%E7%AF%87%E9%9A%8F%E8%AE%B0/"/>
+    <id>http://jiahui-shang.github.io/2025/02/23/%E4%B8%80%E7%AF%87%E9%9A%8F%E8%AE%B0/</id>
+    <published>2025-02-23T04:19:00.000Z</published>
+    <updated>2025-02-23T04:37:59.648Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="随笔" scheme="http://jiahui-shang.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>学习笔记之Js-1</title>

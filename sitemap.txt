@@ -1,3 +1,4 @@
+http://jiahui-shang.github.io/2025/02/23/%E4%B8%80%E7%AF%87%E9%9A%8F%E8%AE%B0/
 http://jiahui-shang.github.io/2025/02/22/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8BJs-1/
 http://jiahui-shang.github.io/games/index.html
 http://jiahui-shang.github.io/cinemas/index.html
@@ -40,6 +41,7 @@ http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/
 http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/
 http://jiahui-shang.github.io/tags/Hexo/
 http://jiahui-shang.github.io/tags/JavaScript/
+http://jiahui-shang.github.io/tags/%E9%9A%8F%E7%AC%94/
 http://jiahui-shang.github.io/categories/AI/
 http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/
 http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/
