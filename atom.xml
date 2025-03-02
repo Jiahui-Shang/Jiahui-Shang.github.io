@@ -6,7 +6,7 @@
   <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiahui-shang.github.io/"/>
-  <updated>2025-03-02T03:40:39.652Z</updated>
+  <updated>2025-03-02T04:07:38.439Z</updated>
   <id>http://jiahui-shang.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2025-3-2</title>
+    <title>三月纪事</title>
     <link href="http://jiahui-shang.github.io/2025/03/02/2025-3-2/"/>
     <id>http://jiahui-shang.github.io/2025/03/02/2025-3-2/</id>
     <published>2025-03-02T03:02:05.000Z</published>
-    <updated>2025-03-02T03:40:39.652Z</updated>
+    <updated>2025-03-02T04:07:38.439Z</updated>
     
     
       
@@ -104,7 +104,7 @@
     <link href="http://jiahui-shang.github.io/2025/02/19/anzhiyu%E4%B8%BB%E9%A2%98%E6%A0%87%E7%AD%BE/"/>
     <id>http://jiahui-shang.github.io/2025/02/19/anzhiyu%E4%B8%BB%E9%A2%98%E6%A0%87%E7%AD%BE/</id>
     <published>2025-02-19T06:31:38.000Z</published>
-    <updated>2025-02-19T10:05:53.693Z</updated>
+    <updated>2025-03-02T04:07:13.354Z</updated>
     
     
     <summary type="html">添加大量外挂标签样式。</summary>
@@ -191,9 +191,9 @@
     <category term="笔记" scheme="http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
-    
     <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
@@ -322,11 +322,11 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
-    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
-    
     <category term="开源" scheme="http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/"/>
     
     <category term="天文" scheme="http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/"/>
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
     
     <category term="前端" scheme="http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
