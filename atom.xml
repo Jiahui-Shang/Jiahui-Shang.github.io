@@ -6,7 +6,7 @@
   <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiahui-shang.github.io/"/>
-  <updated>2025-02-23T04:37:59.648Z</updated>
+  <updated>2025-03-02T03:40:39.652Z</updated>
   <id>http://jiahui-shang.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2025-3-2</title>
+    <link href="http://jiahui-shang.github.io/2025/03/02/2025-3-2/"/>
+    <id>http://jiahui-shang.github.io/2025/03/02/2025-3-2/</id>
+    <published>2025-03-02T03:02:05.000Z</published>
+    <updated>2025-03-02T03:40:39.652Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="随笔" scheme="http://jiahui-shang.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="摘录" scheme="http://jiahui-shang.github.io/tags/%E6%91%98%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>一篇随记</title>
@@ -162,9 +191,9 @@
     <category term="笔记" scheme="http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
     <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -239,9 +268,9 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
-    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
-    
     <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
     
     <category term="DeepSeek" scheme="http://jiahui-shang.github.io/tags/DeepSeek/"/>
     
@@ -293,11 +322,11 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
+    
     <category term="开源" scheme="http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/"/>
     
     <category term="天文" scheme="http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/"/>
-    
-    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
     
     <category term="前端" scheme="http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
