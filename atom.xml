@@ -6,7 +6,7 @@
   <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiahui-shang.github.io/"/>
-  <updated>2025-03-08T07:33:17.318Z</updated>
+  <updated>2025-03-08T07:40:08.230Z</updated>
   <id>http://jiahui-shang.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://jiahui-shang.github.io/2025/03/08/hexo%E8%BF%81%E7%A7%BB%E7%94%B5%E8%84%91%E7%BC%96%E8%BE%91%E6%96%B9%E6%B3%95/"/>
     <id>http://jiahui-shang.github.io/2025/03/08/hexo%E8%BF%81%E7%A7%BB%E7%94%B5%E8%84%91%E7%BC%96%E8%BE%91%E6%96%B9%E6%B3%95/</id>
     <published>2025-03-08T06:57:26.000Z</published>
-    <updated>2025-03-08T07:33:17.318Z</updated>
+    <updated>2025-03-08T07:40:08.230Z</updated>
     
     
     <summary type="html">Hexo博客迁移到新电脑</summary>
@@ -374,11 +374,11 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
-    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
-    
     <category term="开源" scheme="http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/"/>
     
     <category term="天文" scheme="http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/"/>
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
     
     <category term="前端" scheme="http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
