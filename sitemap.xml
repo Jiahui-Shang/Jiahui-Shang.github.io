@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jiahui-shang.github.io/2025/03/08/2025-3-8/</loc>
+    
+    <lastmod>2025-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jiahui-shang.github.io/2025/02/09/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Hexo%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%9F/</loc>
+    
+    <lastmod>2025-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://jiahui-shang.github.io/2025/03/02/2025-3-2/</loc>
     
     <lastmod>2025-03-08</lastmod>
@@ -227,15 +245,6 @@
   </url>
   
   <url>
-    <loc>http://jiahui-shang.github.io/2025/02/09/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Hexo%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%9F/</loc>
-    
-    <lastmod>2025-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://jiahui-shang.github.io/about/index.html</loc>
     
     <lastmod>2025-02-15</lastmod>
@@ -392,6 +401,13 @@
 
   
   <url>
+    <loc>http://jiahui-shang.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2025-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://jiahui-shang.github.io/categories/AI/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -399,14 +415,14 @@
   </url>
   
   <url>
-    <loc>http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/</loc>
+    <loc>http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

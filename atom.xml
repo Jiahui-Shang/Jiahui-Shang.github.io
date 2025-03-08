@@ -6,7 +6,7 @@
   <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiahui-shang.github.io/"/>
-  <updated>2025-03-08T01:38:38.543Z</updated>
+  <updated>2025-03-08T06:08:25.535Z</updated>
   <id>http://jiahui-shang.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2025-3-8</title>
+    <link href="http://jiahui-shang.github.io/2025/03/08/2025-3-8/"/>
+    <id>http://jiahui-shang.github.io/2025/03/08/2025-3-8/</id>
+    <published>2025-03-08T06:30:00.000Z</published>
+    <updated>2025-03-08T06:08:25.535Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>二月纪事</title>
@@ -362,7 +387,7 @@
     <link href="http://jiahui-shang.github.io/2025/02/09/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Hexo%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%9F/"/>
     <id>http://jiahui-shang.github.io/2025/02/09/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Hexo%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%9F/</id>
     <published>2025-02-09T08:27:42.000Z</published>
-    <updated>2025-02-15T05:53:30.796Z</updated>
+    <updated>2025-03-08T04:44:33.591Z</updated>
     
     
       
@@ -374,6 +399,8 @@
       
     
     
+    
+    <category term="教程" scheme="http://jiahui-shang.github.io/categories/%E6%95%99%E7%A8%8B/"/>
     
     
     <category term="教程" scheme="http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
