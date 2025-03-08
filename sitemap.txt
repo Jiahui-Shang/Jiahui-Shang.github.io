@@ -1,4 +1,6 @@
+http://jiahui-shang.github.io/2025/03/08/hexo%E8%BF%81%E7%A7%BB%E7%94%B5%E8%84%91%E7%BC%96%E8%BE%91%E6%96%B9%E6%B3%95/
 http://jiahui-shang.github.io/2025/03/08/2025-3-8/
+http://jiahui-shang.github.io/2025/02/17/%E8%87%AA%E7%94%A8Alist%E7%BE%8E%E5%8C%96/
 http://jiahui-shang.github.io/2025/02/09/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Hexo%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%9F/
 http://jiahui-shang.github.io/2025/03/02/2025-3-2/
 http://jiahui-shang.github.io/2025/02/19/anzhiyu%E4%B8%BB%E9%A2%98%E6%A0%87%E7%AD%BE/
@@ -19,7 +21,6 @@ http://jiahui-shang.github.io/privacy/index.html
 http://jiahui-shang.github.io/copyright/index.html
 http://jiahui-shang.github.io/2025/02/19/anzhiyu%E4%B8%BB%E9%A2%98%E7%9A%84%E4%B8%80%E4%BA%9B%E7%94%A8%E6%B3%95/
 http://jiahui-shang.github.io/2025/02/19/%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86/
-http://jiahui-shang.github.io/2025/02/17/%E8%87%AA%E7%94%A8Alist%E7%BE%8E%E5%8C%96/
 http://jiahui-shang.github.io/2025/02/08/hello-world/
 http://jiahui-shang.github.io/2025/02/18/%E8%AE%B0%E5%BD%95%E9%AD%94%E6%94%B9/
 http://jiahui-shang.github.io/categories/index.html
@@ -33,11 +34,11 @@ http://jiahui-shang.github.io/movies/index.html
 http://jiahui-shang.github.io/archives/index.html
 http://jiahui-shang.github.io/
 http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/
-http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/
 http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/
 http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/
 http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/
 http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/
+http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/
 http://jiahui-shang.github.io/tags/DeepSeek/
 http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/
 http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/
@@ -46,7 +47,10 @@ http://jiahui-shang.github.io/tags/%E9%9A%8F%E7%AC%94/
 http://jiahui-shang.github.io/tags/%E6%91%98%E5%BD%95/
 http://jiahui-shang.github.io/tags/Hexo/
 http://jiahui-shang.github.io/categories/%E6%95%99%E7%A8%8B/
+http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/
 http://jiahui-shang.github.io/categories/AI/
 http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/
-http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/
 http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/
+http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/%E6%95%99%E7%A8%8B/
+http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/%E7%AC%94%E8%AE%B0/
+http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/%E7%AC%94%E8%AE%B0/AI/

@@ -6,7 +6,7 @@
   <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiahui-shang.github.io/"/>
-  <updated>2025-03-08T06:08:25.535Z</updated>
+  <updated>2025-03-08T07:14:48.811Z</updated>
   <id>http://jiahui-shang.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hexo迁移电脑编辑方法</title>
+    <link href="http://jiahui-shang.github.io/2025/03/08/hexo%E8%BF%81%E7%A7%BB%E7%94%B5%E8%84%91%E7%BC%96%E8%BE%91%E6%96%B9%E6%B3%95/"/>
+    <id>http://jiahui-shang.github.io/2025/03/08/hexo%E8%BF%81%E7%A7%BB%E7%94%B5%E8%84%91%E7%BC%96%E8%BE%91%E6%96%B9%E6%B3%95/</id>
+    <published>2025-03-08T06:57:26.000Z</published>
+    <updated>2025-03-08T07:14:48.811Z</updated>
+    
+    
+    <summary type="html">Hexo博客迁移到新电脑</summary>
+    
+    
+    
+    <category term="笔记" scheme="http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="教程" scheme="http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="教程" scheme="http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Hexo" scheme="http://jiahui-shang.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2025-3-8</title>
     <link href="http://jiahui-shang.github.io/2025/03/08/2025-3-8/"/>
     <id>http://jiahui-shang.github.io/2025/03/08/2025-3-8/</id>
     <published>2025-03-08T06:30:00.000Z</published>
-    <updated>2025-03-08T06:08:25.535Z</updated>
+    <updated>2025-03-08T06:53:56.391Z</updated>
     
     
       
@@ -36,8 +61,16 @@
     
     <category term="生活" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
+    <category term="笔记" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="AI" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/%E7%AC%94%E8%AE%B0/AI/"/>
+    
+    
+    <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -227,7 +260,7 @@
     <link href="http://jiahui-shang.github.io/2025/02/17/%E8%87%AA%E7%94%A8Alist%E7%BE%8E%E5%8C%96/"/>
     <id>http://jiahui-shang.github.io/2025/02/17/%E8%87%AA%E7%94%A8Alist%E7%BE%8E%E5%8C%96/</id>
     <published>2025-02-17T02:38:00.000Z</published>
-    <updated>2025-02-19T00:52:45.805Z</updated>
+    <updated>2025-03-08T06:18:42.147Z</updated>
     
     
       
@@ -293,9 +326,9 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
-    <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
-    
     <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
+    
+    <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     <category term="DeepSeek" scheme="http://jiahui-shang.github.io/tags/DeepSeek/"/>
     
