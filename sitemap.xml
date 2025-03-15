@@ -349,6 +349,20 @@
   </url>
   
   <url>
+    <loc>http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/</loc>
+    <lastmod>2025-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jiahui-shang.github.io/tags/DeepSeek/</loc>
+    <lastmod>2025-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2025-03-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -357,13 +371,6 @@
   
   <url>
     <loc>http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/</loc>
-    <lastmod>2025-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/</loc>
     <lastmod>2025-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -384,7 +391,7 @@
   </url>
   
   <url>
-    <loc>http://jiahui-shang.github.io/tags/DeepSeek/</loc>
+    <loc>http://jiahui-shang.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2025-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -399,13 +406,6 @@
   
   <url>
     <loc>http://jiahui-shang.github.io/tags/Hexo/</loc>
-    <lastmod>2025-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://jiahui-shang.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2025-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -449,14 +449,14 @@
   </url>
   
   <url>
-    <loc>http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2025-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2025-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
