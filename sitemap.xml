@@ -342,13 +342,6 @@
   </url>
   
   <url>
-    <loc>http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2025-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2025-03-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -377,7 +370,7 @@
   </url>
   
   <url>
-    <loc>http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
     <lastmod>2025-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -391,7 +384,21 @@
   </url>
   
   <url>
+    <loc>http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2025-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2025-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jiahui-shang.github.io/tags/Hexo/</loc>
     <lastmod>2025-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -418,13 +425,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>http://jiahui-shang.github.io/tags/Hexo/</loc>
-    <lastmod>2025-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -435,14 +435,14 @@
   </url>
   
   <url>
-    <loc>http://jiahui-shang.github.io/categories/AI/</loc>
+    <loc>http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/</loc>
     <lastmod>2025-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/</loc>
+    <loc>http://jiahui-shang.github.io/categories/AI/</loc>
     <lastmod>2025-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
