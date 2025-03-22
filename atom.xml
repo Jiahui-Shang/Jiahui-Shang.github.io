@@ -6,7 +6,7 @@
   <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiahui-shang.github.io/"/>
-  <updated>2025-03-16T03:15:42.497Z</updated>
+  <updated>2025-03-22T07:55:18.081Z</updated>
   <id>http://jiahui-shang.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无人机考证</title>
+    <link href="http://jiahui-shang.github.io/2025/03/22/%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%80%83%E8%AF%81/"/>
+    <id>http://jiahui-shang.github.io/2025/03/22/%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%80%83%E8%AF%81/</id>
+    <published>2025-03-22T06:56:28.000Z</published>
+    <updated>2025-03-22T07:55:18.081Z</updated>
+    
+    
+    <summary type="html">文章主要讲述了作者报名无人机考证的经历，包括对练习计划的安排，如先练习题目，利用周末时间练习模拟器以建立肌肉记忆，以及对不同模拟器的考虑。还介绍了无人机桨叶上的数字所代表的直径和螺距的含义，举例说明了如何从桨叶型号中获取这些参数，并阐述了桨叶直径和螺距对无人机性能的影响，如更大的直径和螺距能产生更大推力，但也会增加电机负载。</summary>
+    
+    
+    
+    <category term="无人机" scheme="http://jiahui-shang.github.io/categories/%E6%97%A0%E4%BA%BA%E6%9C%BA/"/>
+    
+    
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="无人机" scheme="http://jiahui-shang.github.io/tags/%E6%97%A0%E4%BA%BA%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>地理笔记</title>
@@ -56,9 +77,9 @@
     <category term="笔记" scheme="http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
-    
     <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
@@ -90,7 +111,7 @@
     <link href="http://jiahui-shang.github.io/2025/03/08/2025-3-8/"/>
     <id>http://jiahui-shang.github.io/2025/03/08/2025-3-8/</id>
     <published>2025-03-08T06:30:00.000Z</published>
-    <updated>2025-03-08T07:29:43.527Z</updated>
+    <updated>2025-03-22T07:54:56.204Z</updated>
     
     
       
@@ -108,9 +129,9 @@
     
     <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
-    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
-    
     <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
@@ -119,7 +140,7 @@
     <link href="http://jiahui-shang.github.io/2025/03/02/2025-3-2/"/>
     <id>http://jiahui-shang.github.io/2025/03/02/2025-3-2/</id>
     <published>2025-03-02T03:02:05.000Z</published>
-    <updated>2025-03-08T01:38:38.543Z</updated>
+    <updated>2025-03-22T07:53:50.550Z</updated>
     
     
       
@@ -289,9 +310,9 @@
     <category term="笔记" scheme="http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
-    
     <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
@@ -420,11 +441,11 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
+    
     <category term="开源" scheme="http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/"/>
     
     <category term="天文" scheme="http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/"/>
-    
-    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
     
     <category term="前端" scheme="http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
