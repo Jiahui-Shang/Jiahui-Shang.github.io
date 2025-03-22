@@ -6,7 +6,7 @@
   <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiahui-shang.github.io/"/>
-  <updated>2025-03-22T07:55:18.081Z</updated>
+  <updated>2025-03-22T07:59:30.240Z</updated>
   <id>http://jiahui-shang.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://jiahui-shang.github.io/2025/03/22/%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%80%83%E8%AF%81/"/>
     <id>http://jiahui-shang.github.io/2025/03/22/%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%80%83%E8%AF%81/</id>
     <published>2025-03-22T06:56:28.000Z</published>
-    <updated>2025-03-22T07:55:18.081Z</updated>
+    <updated>2025-03-22T07:59:30.240Z</updated>
     
     
     <summary type="html">文章主要讲述了作者报名无人机考证的经历，包括对练习计划的安排，如先练习题目，利用周末时间练习模拟器以建立肌肉记忆，以及对不同模拟器的考虑。还介绍了无人机桨叶上的数字所代表的直径和螺距的含义，举例说明了如何从桨叶型号中获取这些参数，并阐述了桨叶直径和螺距对无人机性能的影响，如更大的直径和螺距能产生更大推力，但也会增加电机负载。</summary>
@@ -52,9 +52,9 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
-    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
-    
     <category term="教程" scheme="http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
     
     <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
