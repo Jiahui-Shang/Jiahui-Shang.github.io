@@ -140,7 +140,7 @@
     <link href="http://jiahui-shang.github.io/2025/03/02/2025-3-2/"/>
     <id>http://jiahui-shang.github.io/2025/03/02/2025-3-2/</id>
     <published>2025-03-02T03:02:05.000Z</published>
-    <updated>2025-03-22T07:53:50.550Z</updated>
+    <updated>2025-03-23T01:24:21.689Z</updated>
     
     
       
@@ -161,6 +161,8 @@
     <category term="随笔" scheme="http://jiahui-shang.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
     <category term="摘录" scheme="http://jiahui-shang.github.io/tags/%E6%91%98%E5%BD%95/"/>
+    
+    <category term="月度总结" scheme="http://jiahui-shang.github.io/tags/%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
@@ -387,9 +389,9 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
-    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
-    
     <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
     
     <category term="DeepSeek" scheme="http://jiahui-shang.github.io/tags/DeepSeek/"/>
     
