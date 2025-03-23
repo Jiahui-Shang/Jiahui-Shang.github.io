@@ -78,9 +78,9 @@
       
         <tags>
             
-            <tag> 日常 </tag>
-            
             <tag> 笔记 </tag>
+            
+            <tag> 日常 </tag>
             
         </tags>
       
@@ -136,9 +136,9 @@
             
             <tag> 人工智能 </tag>
             
-            <tag> 日常 </tag>
-            
             <tag> 笔记 </tag>
+            
+            <tag> 日常 </tag>
             
         </tags>
       
@@ -331,9 +331,9 @@
       
         <tags>
             
-            <tag> 日常 </tag>
-            
             <tag> 笔记 </tag>
+            
+            <tag> 日常 </tag>
             
         </tags>
       
@@ -462,11 +462,11 @@
       
         <tags>
             
+            <tag> 地理 </tag>
+            
             <tag> 开源 </tag>
             
             <tag> 天文 </tag>
-            
-            <tag> 地理 </tag>
             
             <tag> 前端 </tag>
             
@@ -543,20 +543,20 @@
     
     
     <entry>
-      <title>相册集</title>
-      <link href="/album/index.html"/>
-      <url>/album/index.html</url>
+      <title>统计</title>
+      <link href="/charts/index.html"/>
+      <url>/charts/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script src="https://cdn.bootcdn.net/ajax/libs/echarts/4.9.0-rc.1/echarts.min.js"></script><!-- 文章发布时间统计图 --> <!-- 2024-09是从2024年9月开始计算 --><div id="posts-chart" data-start="2024-09" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --> <!-- data-length="10" 是显示的标签数量 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>bangumis</title>
-      <link href="/bangumis/index.html"/>
-      <url>/bangumis/index.html</url>
+      <title>相册集</title>
+      <link href="/album/index.html"/>
+      <url>/album/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -576,22 +576,11 @@
     
     
     <entry>
-      <title>统计</title>
-      <link href="/charts/index.html"/>
-      <url>/charts/index.html</url>
+      <title>bangumis</title>
+      <link href="/bangumis/index.html"/>
+      <url>/bangumis/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script src="https://cdn.bootcdn.net/ajax/libs/echarts/4.9.0-rc.1/echarts.min.js"></script><!-- 文章发布时间统计图 --> <!-- 2024-09是从2024年9月开始计算 --><div id="posts-chart" data-start="2024-09" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --> <!-- data-length="10" 是显示的标签数量 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><style>  #libCategories .card-wrap:hover .card-info:after {    width: 300%;  }</style><link rel="stylesheet" type="text/css" href="https://npm.elemecdn.com/js-heo@1.0.11/3dCard/no3d.css"><div id='libCategories'><div id="lib-cards" class="container"><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/AI/")'><card data-image="https://tse1-mm.cn.bing.net/th/id/OIP-C.vpk0QN6gR2_ruPRYO5kKoAHaE8?rs=1&pid=ImgDetMain"><h1 slot="header">人工智能</h1><p slot="content">与AI相关的文章</p></card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/笔记/")'>  <card data-image="https://img.51miz.com/Photo/2017/05/19/05/P1104383_ab92c6e7120de4843ae86772ea9127e7.jpg">    <h1 slot="header">笔记</h1>    <p slot="content">学习的证明</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/生活/")'>  <card data-image="https://img02.anheyu.com/adminuploads/1/2022/09/05/6315e142a69a9.webp">    <h1 slot="header">生活</h1>    <p slot="content">经历的有趣事</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/地理/")'>  <card data-image="https://pic1.zhimg.com/v2-f1cd63164d1ff922c286ff631cb22f9b_1440w.jpg?source=172ae18b">    <h1 slot="header">地理</h1>    <p slot="content">我喜欢的科目</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/教程/")'>  <card data-image="https://bu.dusays.com/2025/03/15/67d536f487587.png">    <h1 slot="header">教程</h1>    <p slot="content">将就着看，有点帮助</p>  </card></a></div></div><script src='https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.14/vue.min.js' data-pjax></script><script type="text/javascript" src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.7/no3d/no3d.js" data-pjax></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
@@ -609,11 +598,33 @@
     
     
     <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><style>  #libCategories .card-wrap:hover .card-info:after {    width: 300%;  }</style><link rel="stylesheet" type="text/css" href="https://npm.elemecdn.com/js-heo@1.0.11/3dCard/no3d.css"><div id='libCategories'><div id="lib-cards" class="container"><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/AI/")'><card data-image="https://tse1-mm.cn.bing.net/th/id/OIP-C.vpk0QN6gR2_ruPRYO5kKoAHaE8?rs=1&pid=ImgDetMain"><h1 slot="header">人工智能</h1><p slot="content">与AI相关的文章</p></card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/笔记/")'>  <card data-image="https://img.51miz.com/Photo/2017/05/19/05/P1104383_ab92c6e7120de4843ae86772ea9127e7.jpg">    <h1 slot="header">笔记</h1>    <p slot="content">学习的证明</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/生活/")'>  <card data-image="https://img02.anheyu.com/adminuploads/1/2022/09/05/6315e142a69a9.webp">    <h1 slot="header">生活</h1>    <p slot="content">经历的有趣事</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/地理/")'>  <card data-image="https://pic1.zhimg.com/v2-f1cd63164d1ff922c286ff631cb22f9b_1440w.jpg?source=172ae18b">    <h1 slot="header">地理</h1>    <p slot="content">我喜欢的科目</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/教程/")'>  <card data-image="https://bu.dusays.com/2025/03/15/67d536f487587.png">    <h1 slot="header">教程</h1>    <p slot="content">将就着看，有点帮助</p>  </card></a></div></div><script src='https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.14/vue.min.js' data-pjax></script><script type="text/javascript" src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.7/no3d/no3d.js" data-pjax></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>归档</title>
       <link href="/archives/index.html"/>
       <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>版权协议</title>
+      <link href="/copyright/index.html"/>
+      <url>/copyright/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>&emsp;&emsp;为了保持文章质量，并保持互联网的开放共享精神，保持页面流量的稳定，综合考虑下本站的所有原创文章均采用 cc 协议中比较严格的<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际标准</a>。这篇文章主要想能够更加清楚明白的介绍本站的协议标准和要求。方便你合理的使用本站的文章。</p><p>&emsp;&emsp;本站无广告嵌入和商业行为。违反协议的行为不仅会损害原作者的创作热情，而且会影响整个版权环境。强烈呼吁你能够在转载时遵守协议。遵守协议的行为几乎不会对你的目标产生负面影响，鼓励创作环境是每个创作者的期望。</p><h2 id="哪些文章适于本协议？"><a href="#哪些文章适于本协议？" class="headerlink" title="哪些文章适于本协议？"></a>哪些文章适于本协议？</h2><p>&emsp;&emsp;所有原创内容均在文章标题顶部，以及文章结尾的版权说明部分展示。</p><p>&emsp;&emsp;原创内容的非商用转载必须为完整转载且标注出处的<code>带有完整 url 链接</code>或<code>访问原文</code>之类字样的超链接。</p><p>&emsp;&emsp;作为参考资料的情况可以无需完整转载，摘录所需要的部分内容即可，但需标注出处。</p><h2 id="你可以做什么？"><a href="#你可以做什么？" class="headerlink" title="你可以做什么？"></a>你可以做什么？</h2><p>&emsp;&emsp;只要你遵守本页的许可，你可以自由地共享文章的内容 — 在任何媒介以任何形式复制、发行本作品。并且无需通知作者。</p><h2 id="你需要遵守什么样的许可？"><a href="#你需要遵守什么样的许可？" class="headerlink" title="你需要遵守什么样的许可？"></a>你需要遵守什么样的许可？</h2><h3 id="署名"><a href="#署名" class="headerlink" title="署名"></a>署名</h3><p>&emsp;&emsp;你必须标注内容的来源，你需要在文章开头部分（或者明显位置）标注原文章链接（建议使用超链接提升阅读体验）。</p><h3 id="禁止商用"><a href="#禁止商用" class="headerlink" title="禁止商用"></a>禁止商用</h3><p>&emsp;&emsp;本站内容免费向互联网所有用户提供，分享本站文章时禁止商业性使用、禁止在转载页面中插入广告（例如谷歌广告、百度广告）、禁止阅读的拦截行为（例如关注公众号、下载 App 后观看文章）。</p><h3 id="禁止演绎"><a href="#禁止演绎" class="headerlink" title="禁止演绎"></a>禁止演绎</h3><ul><li><p>分享全部内容（无修改）<br>你需要在文章开头部分（或者明显位置）标注原文章链接（建议使用超链接）</p></li><li><p>分享部分截取内容或者衍生创作<br>目前本站全部原创文章的衍生品禁止公开分享和分发。如有更好的修改建议，可以在对应文章下留言。如有衍生创作需求，可以在评论中联系。</p></li><li><p>作为参考资料截取部分内容<br>作为参考资料的情况可以无需完整转载，摘录所需要的部分内容即可，但需标注出处。</p></li></ul><h2 id="什么内容会被版权保护"><a href="#什么内容会被版权保护" class="headerlink" title="什么内容会被版权保护"></a>什么内容会被版权保护</h2><p>&emsp;&emsp;包括但不限于：</p><ul><li>文章封面图片</li><li>文章标题和正文</li><li>站点图片素材（不含主题自带素材）</li></ul><h2 id="例外情况"><a href="#例外情况" class="headerlink" title="例外情况"></a>例外情况</h2><p>&emsp;&emsp;本着友好互相进步的原则，被本站友链收录的博客允许博客文章内容的衍生品的分享和分发，但仍需标注出处。</p><p>&emsp;&emsp;本着互联网开放精神，你可以在博客文章下方留言要求授权博文的衍生品的分享和分发，标注你的网站地址。</p><h2 id="网站源代码协议"><a href="#网站源代码协议" class="headerlink" title="网站源代码协议"></a>网站源代码协议</h2><p>&emsp;&emsp;网站源代码（仅包含 css、js）的代码部分采用 GPL 协议。</p>]]></content>
       
     </entry>
     
@@ -642,11 +653,11 @@
     
     
     <entry>
-      <title>版权协议</title>
-      <link href="/copyright/index.html"/>
-      <url>/copyright/index.html</url>
+      <title>games</title>
+      <link href="/games/index.html"/>
+      <url>/games/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>&emsp;&emsp;为了保持文章质量，并保持互联网的开放共享精神，保持页面流量的稳定，综合考虑下本站的所有原创文章均采用 cc 协议中比较严格的<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际标准</a>。这篇文章主要想能够更加清楚明白的介绍本站的协议标准和要求。方便你合理的使用本站的文章。</p><p>&emsp;&emsp;本站无广告嵌入和商业行为。违反协议的行为不仅会损害原作者的创作热情，而且会影响整个版权环境。强烈呼吁你能够在转载时遵守协议。遵守协议的行为几乎不会对你的目标产生负面影响，鼓励创作环境是每个创作者的期望。</p><h2 id="哪些文章适于本协议？"><a href="#哪些文章适于本协议？" class="headerlink" title="哪些文章适于本协议？"></a>哪些文章适于本协议？</h2><p>&emsp;&emsp;所有原创内容均在文章标题顶部，以及文章结尾的版权说明部分展示。</p><p>&emsp;&emsp;原创内容的非商用转载必须为完整转载且标注出处的<code>带有完整 url 链接</code>或<code>访问原文</code>之类字样的超链接。</p><p>&emsp;&emsp;作为参考资料的情况可以无需完整转载，摘录所需要的部分内容即可，但需标注出处。</p><h2 id="你可以做什么？"><a href="#你可以做什么？" class="headerlink" title="你可以做什么？"></a>你可以做什么？</h2><p>&emsp;&emsp;只要你遵守本页的许可，你可以自由地共享文章的内容 — 在任何媒介以任何形式复制、发行本作品。并且无需通知作者。</p><h2 id="你需要遵守什么样的许可？"><a href="#你需要遵守什么样的许可？" class="headerlink" title="你需要遵守什么样的许可？"></a>你需要遵守什么样的许可？</h2><h3 id="署名"><a href="#署名" class="headerlink" title="署名"></a>署名</h3><p>&emsp;&emsp;你必须标注内容的来源，你需要在文章开头部分（或者明显位置）标注原文章链接（建议使用超链接提升阅读体验）。</p><h3 id="禁止商用"><a href="#禁止商用" class="headerlink" title="禁止商用"></a>禁止商用</h3><p>&emsp;&emsp;本站内容免费向互联网所有用户提供，分享本站文章时禁止商业性使用、禁止在转载页面中插入广告（例如谷歌广告、百度广告）、禁止阅读的拦截行为（例如关注公众号、下载 App 后观看文章）。</p><h3 id="禁止演绎"><a href="#禁止演绎" class="headerlink" title="禁止演绎"></a>禁止演绎</h3><ul><li><p>分享全部内容（无修改）<br>你需要在文章开头部分（或者明显位置）标注原文章链接（建议使用超链接）</p></li><li><p>分享部分截取内容或者衍生创作<br>目前本站全部原创文章的衍生品禁止公开分享和分发。如有更好的修改建议，可以在对应文章下留言。如有衍生创作需求，可以在评论中联系。</p></li><li><p>作为参考资料截取部分内容<br>作为参考资料的情况可以无需完整转载，摘录所需要的部分内容即可，但需标注出处。</p></li></ul><h2 id="什么内容会被版权保护"><a href="#什么内容会被版权保护" class="headerlink" title="什么内容会被版权保护"></a>什么内容会被版权保护</h2><p>&emsp;&emsp;包括但不限于：</p><ul><li>文章封面图片</li><li>文章标题和正文</li><li>站点图片素材（不含主题自带素材）</li></ul><h2 id="例外情况"><a href="#例外情况" class="headerlink" title="例外情况"></a>例外情况</h2><p>&emsp;&emsp;本着友好互相进步的原则，被本站友链收录的博客允许博客文章内容的衍生品的分享和分发，但仍需标注出处。</p><p>&emsp;&emsp;本着互联网开放精神，你可以在博客文章下方留言要求授权博文的衍生品的分享和分发，标注你的网站地址。</p><h2 id="网站源代码协议"><a href="#网站源代码协议" class="headerlink" title="网站源代码协议"></a>网站源代码协议</h2><p>&emsp;&emsp;网站源代码（仅包含 css、js）的代码部分采用 GPL 协议。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
@@ -656,39 +667,6 @@
       <title>我的装备</title>
       <link href="/equipment/index.html"/>
       <url>/equipment/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2><p>本博客遵守中华人民共和国相关法律。本页内容仅作为方便学习而产生的快速链接的链接方式，对与友情链接中存在的链接、好文推荐链接等均为其他网站。我本人能力有限无法逐个甄别每篇文章的每个字，并无法获知是否在收录后原作者是否对链接增加了违反法律甚至其他破坏用户计算机等行为。因为部分友链网站甚至没有做备案、域名并未做实名认证等，所以友链网站均可能存在风险，请你须知。</p><p>所以在我力所能及的情况下，我会包括但不限于：</p><ol><li>针对收录的博客中的绝大多数内容通过标题来鉴别是否存在有风险的内容</li><li>在收录的友链好文推荐中检查是否存在风险内容</li></ol><p>但是你在访问的时候，仍然无法避免，包括但不限于：</p><ol><li>作者更换了超链接的指向，替换成了其他内容</li><li>作者的服务器被恶意攻击、劫持、被注入恶意内容</li><li>作者的域名到期，被不法分子用作他用</li><li>作者修改了文章内容，增加钓鱼网站、广告等无效信息</li><li>不完善的隐私保护对用户的隐私造成了侵害、泄漏</li></ol><p>如果你发现其中包含违反中华人民共和国法律的内容，请及时联系和举报。该友链会被拉黑。</p><h1 id="格式："><a href="#格式：" class="headerlink" title="格式："></a>格式：</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">- name:  煎饼狗子</span><br><span class="line">      link:  https://www.everett.top</span><br><span class="line">      avatar:  https://bu.dusays.com/2025/02/18/67b3fc5c0fa10.png</span><br><span class="line">      descr:  春山可望，星海长明✨</span><br><span class="line">      siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/anheyu.com/https://www.everett.top/</span><br></pre></td></tr></table></figure>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>games</title>
-      <link href="/games/index.html"/>
-      <url>/games/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -708,11 +686,11 @@
     
     
     <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2><p>本博客遵守中华人民共和国相关法律。本页内容仅作为方便学习而产生的快速链接的链接方式，对与友情链接中存在的链接、好文推荐链接等均为其他网站。我本人能力有限无法逐个甄别每篇文章的每个字，并无法获知是否在收录后原作者是否对链接增加了违反法律甚至其他破坏用户计算机等行为。因为部分友链网站甚至没有做备案、域名并未做实名认证等，所以友链网站均可能存在风险，请你须知。</p><p>所以在我力所能及的情况下，我会包括但不限于：</p><ol><li>针对收录的博客中的绝大多数内容通过标题来鉴别是否存在有风险的内容</li><li>在收录的友链好文推荐中检查是否存在风险内容</li></ol><p>但是你在访问的时候，仍然无法避免，包括但不限于：</p><ol><li>作者更换了超链接的指向，替换成了其他内容</li><li>作者的服务器被恶意攻击、劫持、被注入恶意内容</li><li>作者的域名到期，被不法分子用作他用</li><li>作者修改了文章内容，增加钓鱼网站、广告等无效信息</li><li>不完善的隐私保护对用户的隐私造成了侵害、泄漏</li></ol><p>如果你发现其中包含违反中华人民共和国法律的内容，请及时联系和举报。该友链会被拉黑。</p><h1 id="格式："><a href="#格式：" class="headerlink" title="格式："></a>格式：</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">- name:  煎饼狗子</span><br><span class="line">      link:  https://www.everett.top</span><br><span class="line">      avatar:  https://bu.dusays.com/2025/02/18/67b3fc5c0fa10.png</span><br><span class="line">      descr:  春山可望，星海长明✨</span><br><span class="line">      siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/anheyu.com/https://www.everett.top/</span><br></pre></td></tr></table></figure>]]></content>
       
     </entry>
     
@@ -724,6 +702,28 @@
       <url>/json/music.json</url>
       
         <content type="html"><![CDATA[[{"name":"青花瓷","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002eFUFm2XYZ7z_2.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.lrc"},{"name":"稻香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.lrc"},{"name":"晴天","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.lrc"},{"name":"七里香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.lrc"},{"name":"花海","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.lrc"},{"name":"反方向的钟","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.lrc"},{"name":"兰亭序","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.lrc"},{"name":"说好的辛福呢","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的辛福呢.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的幸福呢.lrc"},{"name":"等你下课 (with 杨瑞代)","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003bSL0v4bpKAx_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.lrc"},{"name":"我落泪情绪零碎","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000bviBl4FjTpO_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.lrc"},{"name":"听妈妈的话","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.lrc"},{"name":"明明就","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003Ow85E3pnoqi_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.lrc"},{"name":"我是如此相信","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000001hGx1Z0so1YX_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.lrc"},{"name":"发如雪","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M0000024bjiL2aocxT_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.lrc"},{"name":"以父之名","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.lrc"},{"name":"园游会","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.lrc"},{"name":"本草纲目","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.lrc"},{"name":"龙卷风","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.lrc"}]]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
@@ -752,11 +752,11 @@
     
     
     <entry>
-      <title>时间轴</title>
-      <link href="/timeline/index.html"/>
-      <url>/timeline/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2025</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的相册页面</li></ul><img class="inline-img" src="https://www.helloimg.com/i/2025/03/23/67df8c0947f88.png" style="height:150px"/></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的装备页面</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-19</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>新增时间轴样式支持</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-18</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>增加侧边栏倒计时</li><li>更改侧边栏公告</li><li>增加侧边栏最近评论</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-17</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>优化文章排版，双栏改为单栏</li></ul><!-- timeline 02-11 --><p><strong>主题升级</strong></p><ul><li>支持评论系统，使用twikoo</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-05</p></div></div><div class='timeline-item-content'><p><strong>技术探索</strong></p><ol><li>在github上部署Hexo博客</li><li>探索anzhiyu主题定制方法</li><li><mark class="hl-label green">完成度100%</mark></li></ol></div></div></div>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
@@ -775,6 +775,17 @@
     
     <entry>
       <title></title>
+      <link href="/static/countdown.js"/>
+      <url>/static/countdown.js</url>
+      
+        <content type="html"><![CDATA[const CountdownTimer = (() => {    const config = {        targetDate: "2025-05-1",        targetName: "劳动节",        units: {            day: { text: "今日", unit: "小时" },            week: { text: "本周", unit: "天" },            month: { text: "本月", unit: "天" },            year: { text: "本年", unit: "天" }        }    };    const calculators = {        day: () => {            const hours = new Date().getHours();            return {                remaining: 24 - hours,                percentage: (hours / 24) * 100            };        },        week: () => {            const day = new Date().getDay();            const passed = day === 0 ? 6 : day - 1;            return {                remaining: 6 - passed,                percentage: ((passed + 1) / 7) * 100            };        },        month: () => {            const now = new Date();            const total = new Date(now.getFullYear(), now.getMonth() + 1, 0).getDate();            const passed = now.getDate() - 1;            return {                remaining: total - passed,                percentage: (passed / total) * 100            };        },        year: () => {            const now = new Date();            const start = new Date(now.getFullYear(), 0, 1);            const total = 365 + (now.getFullYear() % 4 === 0 ? 1 : 0);            const passed = Math.floor((now - start) / 86400000);            return {                remaining: total - passed,                percentage: (passed / total) * 100            };        }    };    function updateCountdown() {        const elements = ['eventName', 'eventDate', 'daysUntil', 'countRight']            .map(id => document.getElementById(id));                if (elements.some(el => !el)) return;                const [eventName, eventDate, daysUntil, countRight] = elements;        const now = new Date();        const target = new Date(config.targetDate);                eventName.textContent = config.targetName;        eventDate.textContent = config.targetDate;        daysUntil.textContent = Math.round((target - now.setHours(0,0,0,0)) / 86400000);                countRight.innerHTML = Object.entries(config.units)            .map(([key, {text, unit}]) => {                const {remaining, percentage} = calculators[key]();                return `                    <div class="cd-count-item">                        <div class="cd-item-name">${text}</div>                        <div class="cd-item-progress">                            <div class="cd-progress-bar" style="width: ${percentage}%; opacity: ${percentage/100}"></div>                            <span class="cd-percentage ${percentage >= 46 ? 'cd-many' : ''}">${percentage.toFixed(2)}%</span>                            <span class="cd-remaining ${percentage >= 60 ? 'cd-many' : ''}">                                <span class="cd-tip">还剩</span>${remaining}<span class="cd-tip">${unit}</span>                            </span>                        </div>                    </div>                `;            }).join('');    }    function injectStyles() {        const styles = `            .card-countdown .item-content {                display: flex;            }            .cd-count-left {                position: relative;                display: flex;                flex-direction: column;                margin-right: 0.8rem;                line-height: 1.5;                align-items: center;                justify-content: center;            }            .cd-count-left .cd-text {                font-size: 14px;            }            .cd-count-left .cd-name {                font-weight: bold;                font-size: 18px;            }            .cd-count-left .cd-time {                font-size: 30px;                font-weight: bold;                color: var(--anzhiyu-main);            }            .cd-count-left .cd-date {                font-size: 12px;                opacity: 0.6;            }            .cd-count-left::after {                content: "";                position: absolute;                right: -0.8rem;                width: 2px;                height: 80%;                background-color: var(--anzhiyu-main);                opacity: 0.5;            }            .cd-count-right {                flex: 1;                margin-left: .8rem;                display: flex;                flex-direction: column;                justify-content: space-between;            }            .cd-count-item {                display: flex;                flex-direction: row;                align-items: center;                height: 24px;            }            .cd-item-name {                font-size: 14px;                margin-right: 0.8rem;                white-space: nowrap;            }            .cd-item-progress {                position: relative;                display: flex;                flex-direction: row;                align-items: center;                justify-content: space-between;                height: 100%;                width: 100%;                border-radius: 8px;                background-color: var(--anzhiyu-background);                overflow: hidden;            }            .cd-progress-bar {                height: 100%;                border-radius: 8px;                background-color: var(--anzhiyu-main);            }            .cd-percentage,            .cd-remaining {                position: absolute;                font-size: 12px;                margin: 0 6px;                transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;            }            .cd-many {                color: #fff;            }            .cd-remaining {                opacity: 0;                transform: translateX(10px);            }            .card-countdown .item-content:hover .cd-remaining {                transform: translateX(0);                opacity: 1;            }            .card-countdown .item-content:hover .cd-percentage {                transform: translateX(-10px);                opacity: 0;            }        `;        const styleSheet = document.createElement("style");        styleSheet.textContent = styles;        document.head.appendChild(styleSheet);    }    let timer;    const start = () => {        injectStyles();        updateCountdown();        timer = setInterval(updateCountdown, 600000);    };        ['pjax:complete', 'DOMContentLoaded'].forEach(event => document.addEventListener(event, start));    document.addEventListener('pjax:send', () => timer && clearInterval(timer));        return { start, stop: () => timer && clearInterval(timer) };})();]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/static/comments.js"/>
       <url>/static/comments.js</url>
       
@@ -785,22 +796,11 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>时间轴</title>
+      <link href="/timeline/index.html"/>
+      <url>/timeline/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/static/countdown.js"/>
-      <url>/static/countdown.js</url>
-      
-        <content type="html"><![CDATA[const CountdownTimer = (() => {    const config = {        targetDate: "2025-05-1",        targetName: "劳动节",        units: {            day: { text: "今日", unit: "小时" },            week: { text: "本周", unit: "天" },            month: { text: "本月", unit: "天" },            year: { text: "本年", unit: "天" }        }    };    const calculators = {        day: () => {            const hours = new Date().getHours();            return {                remaining: 24 - hours,                percentage: (hours / 24) * 100            };        },        week: () => {            const day = new Date().getDay();            const passed = day === 0 ? 6 : day - 1;            return {                remaining: 6 - passed,                percentage: ((passed + 1) / 7) * 100            };        },        month: () => {            const now = new Date();            const total = new Date(now.getFullYear(), now.getMonth() + 1, 0).getDate();            const passed = now.getDate() - 1;            return {                remaining: total - passed,                percentage: (passed / total) * 100            };        },        year: () => {            const now = new Date();            const start = new Date(now.getFullYear(), 0, 1);            const total = 365 + (now.getFullYear() % 4 === 0 ? 1 : 0);            const passed = Math.floor((now - start) / 86400000);            return {                remaining: total - passed,                percentage: (passed / total) * 100            };        }    };    function updateCountdown() {        const elements = ['eventName', 'eventDate', 'daysUntil', 'countRight']            .map(id => document.getElementById(id));                if (elements.some(el => !el)) return;                const [eventName, eventDate, daysUntil, countRight] = elements;        const now = new Date();        const target = new Date(config.targetDate);                eventName.textContent = config.targetName;        eventDate.textContent = config.targetDate;        daysUntil.textContent = Math.round((target - now.setHours(0,0,0,0)) / 86400000);                countRight.innerHTML = Object.entries(config.units)            .map(([key, {text, unit}]) => {                const {remaining, percentage} = calculators[key]();                return `                    <div class="cd-count-item">                        <div class="cd-item-name">${text}</div>                        <div class="cd-item-progress">                            <div class="cd-progress-bar" style="width: ${percentage}%; opacity: ${percentage/100}"></div>                            <span class="cd-percentage ${percentage >= 46 ? 'cd-many' : ''}">${percentage.toFixed(2)}%</span>                            <span class="cd-remaining ${percentage >= 60 ? 'cd-many' : ''}">                                <span class="cd-tip">还剩</span>${remaining}<span class="cd-tip">${unit}</span>                            </span>                        </div>                    </div>                `;            }).join('');    }    function injectStyles() {        const styles = `            .card-countdown .item-content {                display: flex;            }            .cd-count-left {                position: relative;                display: flex;                flex-direction: column;                margin-right: 0.8rem;                line-height: 1.5;                align-items: center;                justify-content: center;            }            .cd-count-left .cd-text {                font-size: 14px;            }            .cd-count-left .cd-name {                font-weight: bold;                font-size: 18px;            }            .cd-count-left .cd-time {                font-size: 30px;                font-weight: bold;                color: var(--anzhiyu-main);            }            .cd-count-left .cd-date {                font-size: 12px;                opacity: 0.6;            }            .cd-count-left::after {                content: "";                position: absolute;                right: -0.8rem;                width: 2px;                height: 80%;                background-color: var(--anzhiyu-main);                opacity: 0.5;            }            .cd-count-right {                flex: 1;                margin-left: .8rem;                display: flex;                flex-direction: column;                justify-content: space-between;            }            .cd-count-item {                display: flex;                flex-direction: row;                align-items: center;                height: 24px;            }            .cd-item-name {                font-size: 14px;                margin-right: 0.8rem;                white-space: nowrap;            }            .cd-item-progress {                position: relative;                display: flex;                flex-direction: row;                align-items: center;                justify-content: space-between;                height: 100%;                width: 100%;                border-radius: 8px;                background-color: var(--anzhiyu-background);                overflow: hidden;            }            .cd-progress-bar {                height: 100%;                border-radius: 8px;                background-color: var(--anzhiyu-main);            }            .cd-percentage,            .cd-remaining {                position: absolute;                font-size: 12px;                margin: 0 6px;                transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;            }            .cd-many {                color: #fff;            }            .cd-remaining {                opacity: 0;                transform: translateX(10px);            }            .card-countdown .item-content:hover .cd-remaining {                transform: translateX(0);                opacity: 1;            }            .card-countdown .item-content:hover .cd-percentage {                transform: translateX(-10px);                opacity: 0;            }        `;        const styleSheet = document.createElement("style");        styleSheet.textContent = styles;        document.head.appendChild(styleSheet);    }    let timer;    const start = () => {        injectStyles();        updateCountdown();        timer = setInterval(updateCountdown, 600000);    };        ['pjax:complete', 'DOMContentLoaded'].forEach(event => document.addEventListener(event, start));    document.addEventListener('pjax:send', () => timer && clearInterval(timer));        return { start, stop: () => timer && clearInterval(timer) };})();]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2025</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的相册页面</li></ul><img class="inline-img" src="https://www.helloimg.com/i/2025/03/23/67df8c0947f88.png" style="height:150px"/></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的装备页面</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-19</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>新增时间轴样式支持</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-18</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>增加侧边栏倒计时</li><li>更改侧边栏公告</li><li>增加侧边栏最近评论</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-17</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>优化文章排版，双栏改为单栏</li></ul><!-- timeline 02-11 --><p><strong>主题升级</strong></p><ul><li>支持评论系统，使用twikoo</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-05</p></div></div><div class='timeline-item-content'><p><strong>技术探索</strong></p><ol><li>在github上部署Hexo博客</li><li>探索anzhiyu主题定制方法</li><li><mark class="hl-label green">完成度100%</mark></li></ol></div></div></div>]]></content>
       
     </entry>
     
