@@ -5,8 +5,8 @@
     
     <entry>
       <title>三月总结</title>
-      <link href="/2025/03/29/%E4%B8%89%E6%9C%88%E6%80%BB%E7%BB%93/"/>
-      <url>/2025/03/29/%E4%B8%89%E6%9C%88%E6%80%BB%E7%BB%93/</url>
+      <link href="/2025/04/04/%E4%B8%89%E6%9C%88%E6%80%BB%E7%BB%93/"/>
+      <url>/2025/04/04/%E4%B8%89%E6%9C%88%E6%80%BB%E7%BB%93/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在整个三月，我控制住了我在饮食方面的消费。过去的一个月，我开始着手培养自己的兴趣爱好，同时也保持着对科技的兴趣。前半个月，印象很浅、没有什么大事，反倒是无人机考证之事，平日正常行课，参与过“双创”的招募。后半个月，经历了一场大降温，又学习了口琴，又开始关注起了AI。</p><h1 id="个人成长"><a href="#个人成长" class="headerlink" title="个人成长"></a>个人成长</h1><p>在这个月里，这是一个雷锋月，我参与了众多学雷锋活动。我个人又获得了哪些长进呢？首先是无人机考证，7000多的报名费，到现在材料才差不多备齐。无人机考证材料中，除了考无人机，这个月参与了计算机二级考试，感觉有点后悔，因为当时报的是二级，已经是web程序设计，对自己太自信了，能不能过就看运气吧。</p><h1 id="人工智能"><a href="#人工智能" class="headerlink" title="人工智能"></a>人工智能</h1><blockquote><p>现关注人工智能发展是我的一大乐趣。</p></blockquote><p>对生成式人工智能，我算是最早一批发现有这个东西的人。我是在GPT-3.5刚发布时，就关注到了。当时我上高中，住校，唯一获取信息的渠道是放假拿到手机。从ChatGPT 3.5发布，到Topbook的视频发布，再到我看到这个视频，只用了7天。我第一次看到3.5的对话，让我感到十分惊喜。当时我便看出了它的发展潜力，虽然当时它的输出还不是很高质量，但那种什么都能答、什么都能编的能力，让我很震撼。可是，我的生活仍然没有发生改变，国外的ChatGPT都进化出了超逼真语音功能，国内才推出文心。</p><p>回顾我关注生成式人工智能的这两年，有许多新技术让我眼前一亮。ChatGPT3.5的发布，4.0的发布，文心的出现，语音模式的出现，Kimi的长文本，DeepSeek，MCP…</p><h2 id="文字"><a href="#文字" class="headerlink" title="文字"></a>文字</h2><p>DeepSeek V3-0324更新 <img class="inline-img" src="https://www.malwarebytes.com/wp-content/uploads/sites/2/2025/01/DeepSeek_logo.jpg" style="height:150px"/> 编程能力大幅提高。</p><p>我也开始注意到DeepSeek V3的写作风格，特别像仿照鲁迅风。</p><p>QwQ：qwen推出了一个仅32B大小的推理模型<img class="inline-img" src="https://tse2-mm.cn.bing.net/th/id/OIP-C.uCLRZdN51c9sdrRhlJNSOAHaFF?rs=1&pid=ImgDetMain" style="height:150px"/>，用了一下，效果也还不错。</p><p>文心：文心一言连续发布两个模型，文心4.5和文心X1推理。</p><img class="inline-img" src="https://imgslim.geekpark.net/uploads/image/file/a4/f1/a4f19a7d3919c9daca8ffe6ce75318b1.jpg" style="height:150px"/><p>有意思的是文心的推理模型，可以调用多个工具，但是用了几回下来，除了回答质量确实提高了以外，其它的也是没什么让我感到十分惊艳的。</p><h2 id="图像："><a href="#图像：" class="headerlink" title="图像："></a>图像：</h2><p>三月底，OpenAI将原有的GPT4o的画图进行了升级，仅需语言描述，画面可控性成为更强，由其是风格，文字的控制</p><h2 id="音乐："><a href="#音乐：" class="headerlink" title="音乐："></a>音乐：</h2><p>主要就是用了一下天谱乐，天谱乐的乐曲模型出到了v3.5，由于是beta版本，感觉不太好用，平常v3.0生成的听着还可以，但是感觉歌词一多就质量下降</p><h2 id="新技术："><a href="#新技术：" class="headerlink" title="新技术："></a>新技术：</h2><p>MCP（Model Context Protocol）是由Anthropic公司于2024年11月推出的一种开放标准，旨在统一AI模型与外部数据源和工具之间的通信协议。它通过标准化的方式，解决AI模型与外部资源交互中的数据孤岛问题</p>]]></content>
       
@@ -612,75 +612,9 @@
     
     
     <entry>
-      <title>归档</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><style>  #libCategories .card-wrap:hover .card-info:after {    width: 300%;  }</style><link rel="stylesheet" type="text/css" href="https://npm.elemecdn.com/js-heo@1.0.11/3dCard/no3d.css"><div id='libCategories'><div id="lib-cards" class="container"><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/AI/")'><card data-image="https://tse1-mm.cn.bing.net/th/id/OIP-C.vpk0QN6gR2_ruPRYO5kKoAHaE8?rs=1&pid=ImgDetMain"><h1 slot="header">人工智能</h1><p slot="content">与AI相关的文章</p></card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/笔记/")'>  <card data-image="https://img.51miz.com/Photo/2017/05/19/05/P1104383_ab92c6e7120de4843ae86772ea9127e7.jpg">    <h1 slot="header">笔记</h1>    <p slot="content">学习的证明</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/生活/")'>  <card data-image="https://img02.anheyu.com/adminuploads/1/2022/09/05/6315e142a69a9.webp">    <h1 slot="header">生活</h1>    <p slot="content">经历的有趣事</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/地理/")'>  <card data-image="https://pic1.zhimg.com/v2-f1cd63164d1ff922c286ff631cb22f9b_1440w.jpg?source=172ae18b">    <h1 slot="header">地理</h1>    <p slot="content">我喜欢的科目</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/教程/")'>  <card data-image="https://bu.dusays.com/2025/03/15/67d536f487587.png">    <h1 slot="header">教程</h1>    <p slot="content">将就着看，有点帮助</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/无人机/")'>  <card data-image="https://pic3.zhimg.com/v2-585dd36f879f85351ec450cf7d85c94e_r.jpg">    <h1 slot="header">无人机</h1>    <p slot="content">我的专业</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/前端/")'>  <card data-image="https://www.sgpjbg.com/FileUpload/ueditor_s/upload/2022-7/27/6379454033690892559767137.jpg">    <h1 slot="header">前端</h1>    <p slot="content">没什么好描述的~</p>  </card></a></div></div><script src='https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.14/vue.min.js' data-pjax></script><script type="text/javascript" src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.7/no3d/no3d.js" data-pjax></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>统计</title>
-      <link href="/charts/index.html"/>
-      <url>/charts/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script src="https://cdn.bootcdn.net/ajax/libs/echarts/4.9.0-rc.1/echarts.min.js"></script><!-- 文章发布时间统计图 --> <!-- 2024-09是从2024年9月开始计算 --><div id="posts-chart" data-start="2024-09" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --> <!-- data-length="10" 是显示的标签数量 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>cinemas</title>
-      <link href="/cinemas/index.html"/>
-      <url>/cinemas/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>日常生活</title>
-      <link href="/dailyPhoto/index.html"/>
-      <url>/dailyPhoto/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我的装备</title>
-      <link href="/equipment/index.html"/>
-      <url>/equipment/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -700,11 +634,44 @@
     
     
     <entry>
-      <title></title>
-      <link href="/json/music.json"/>
-      <url>/json/music.json</url>
+      <title>统计</title>
+      <link href="/charts/index.html"/>
+      <url>/charts/index.html</url>
       
-        <content type="html"><![CDATA[[{"name":"青花瓷","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002eFUFm2XYZ7z_2.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.lrc"},{"name":"稻香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.lrc"},{"name":"晴天","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.lrc"},{"name":"七里香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.lrc"},{"name":"花海","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.lrc"},{"name":"反方向的钟","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.lrc"},{"name":"兰亭序","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.lrc"},{"name":"说好的辛福呢","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的辛福呢.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的幸福呢.lrc"},{"name":"等你下课 (with 杨瑞代)","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003bSL0v4bpKAx_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.lrc"},{"name":"我落泪情绪零碎","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000bviBl4FjTpO_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.lrc"},{"name":"听妈妈的话","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.lrc"},{"name":"明明就","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003Ow85E3pnoqi_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.lrc"},{"name":"我是如此相信","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000001hGx1Z0so1YX_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.lrc"},{"name":"发如雪","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M0000024bjiL2aocxT_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.lrc"},{"name":"以父之名","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.lrc"},{"name":"园游会","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.lrc"},{"name":"本草纲目","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.lrc"},{"name":"龙卷风","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.lrc"}]]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script src="https://cdn.bootcdn.net/ajax/libs/echarts/4.9.0-rc.1/echarts.min.js"></script><!-- 文章发布时间统计图 --> <!-- 2024-09是从2024年9月开始计算 --><div id="posts-chart" data-start="2024-09" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章标签统计图 --> <!-- data-length="10" 是显示的标签数量 --><div id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;"></div><!-- 文章分类统计图 --><div id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>归档</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><style>  #libCategories .card-wrap:hover .card-info:after {    width: 300%;  }</style><link rel="stylesheet" type="text/css" href="https://npm.elemecdn.com/js-heo@1.0.11/3dCard/no3d.css"><div id='libCategories'><div id="lib-cards" class="container"><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/AI/")'><card data-image="https://tse1-mm.cn.bing.net/th/id/OIP-C.vpk0QN6gR2_ruPRYO5kKoAHaE8?rs=1&pid=ImgDetMain"><h1 slot="header">人工智能</h1><p slot="content">与AI相关的文章</p></card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/笔记/")'>  <card data-image="https://img.51miz.com/Photo/2017/05/19/05/P1104383_ab92c6e7120de4843ae86772ea9127e7.jpg">    <h1 slot="header">笔记</h1>    <p slot="content">学习的证明</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/生活/")'>  <card data-image="https://img02.anheyu.com/adminuploads/1/2022/09/05/6315e142a69a9.webp">    <h1 slot="header">生活</h1>    <p slot="content">经历的有趣事</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/地理/")'>  <card data-image="https://pic1.zhimg.com/v2-f1cd63164d1ff922c286ff631cb22f9b_1440w.jpg?source=172ae18b">    <h1 slot="header">地理</h1>    <p slot="content">我喜欢的科目</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/教程/")'>  <card data-image="https://bu.dusays.com/2025/03/15/67d536f487587.png">    <h1 slot="header">教程</h1>    <p slot="content">将就着看，有点帮助</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/无人机/")'>  <card data-image="https://pic3.zhimg.com/v2-585dd36f879f85351ec450cf7d85c94e_r.jpg">    <h1 slot="header">无人机</h1>    <p slot="content">我的专业</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/前端/")'>  <card data-image="https://www.sgpjbg.com/FileUpload/ueditor_s/upload/2022-7/27/6379454033690892559767137.jpg">    <h1 slot="header">前端</h1>    <p slot="content">没什么好描述的~</p>  </card></a></div></div><script src='https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.14/vue.min.js' data-pjax></script><script type="text/javascript" src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.7/no3d/no3d.js" data-pjax></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>cinemas</title>
+      <link href="/cinemas/index.html"/>
+      <url>/cinemas/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
@@ -722,11 +689,66 @@
     
     
     <entry>
+      <title>即刻短文</title>
+      <link href="/essay/index.html"/>
+      <url>/essay/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/json/music.json"/>
+      <url>/json/music.json</url>
+      
+        <content type="html"><![CDATA[[{"name":"青花瓷","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002eFUFm2XYZ7z_2.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.lrc"},{"name":"稻香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.lrc"},{"name":"晴天","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.lrc"},{"name":"七里香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.lrc"},{"name":"花海","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.lrc"},{"name":"反方向的钟","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.lrc"},{"name":"兰亭序","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.lrc"},{"name":"说好的辛福呢","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的辛福呢.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的幸福呢.lrc"},{"name":"等你下课 (with 杨瑞代)","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003bSL0v4bpKAx_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.lrc"},{"name":"我落泪情绪零碎","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000bviBl4FjTpO_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.lrc"},{"name":"听妈妈的话","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.lrc"},{"name":"明明就","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003Ow85E3pnoqi_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.lrc"},{"name":"我是如此相信","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000001hGx1Z0so1YX_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.lrc"},{"name":"发如雪","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M0000024bjiL2aocxT_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.lrc"},{"name":"以父之名","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.lrc"},{"name":"园游会","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.lrc"},{"name":"本草纲目","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.lrc"},{"name":"龙卷风","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.lrc"}]]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的装备</title>
+      <link href="/equipment/index.html"/>
+      <url>/equipment/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>友链</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2><p>本博客遵守中华人民共和国相关法律。本页内容仅作为方便学习而产生的快速链接的链接方式，对与友情链接中存在的链接、好文推荐链接等均为其他网站。我本人能力有限无法逐个甄别每篇文章的每个字，并无法获知是否在收录后原作者是否对链接增加了违反法律甚至其他破坏用户计算机等行为。因为部分友链网站甚至没有做备案、域名并未做实名认证等，所以友链网站均可能存在风险，请你须知。</p><p>所以在我力所能及的情况下，我会包括但不限于：</p><ol><li>针对收录的博客中的绝大多数内容通过标题来鉴别是否存在有风险的内容</li><li>在收录的友链好文推荐中检查是否存在风险内容</li></ol><p>但是你在访问的时候，仍然无法避免，包括但不限于：</p><ol><li>作者更换了超链接的指向，替换成了其他内容</li><li>作者的服务器被恶意攻击、劫持、被注入恶意内容</li><li>作者的域名到期，被不法分子用作他用</li><li>作者修改了文章内容，增加钓鱼网站、广告等无效信息</li><li>不完善的隐私保护对用户的隐私造成了侵害、泄漏</li></ol><p>如果你发现其中包含违反中华人民共和国法律的内容，请及时联系和举报。该友链会被拉黑。</p><h1 id="格式："><a href="#格式：" class="headerlink" title="格式："></a>格式：</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">- name:  煎饼狗子</span><br><span class="line">      link:  https://www.everett.top</span><br><span class="line">      avatar:  https://bu.dusays.com/2025/02/18/67b3fc5c0fa10.png</span><br><span class="line">      descr:  春山可望，星海长明✨</span><br><span class="line">      siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/anheyu.com/https://www.everett.top/</span><br></pre></td></tr></table></figure>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日常生活</title>
+      <link href="/dailyPhoto/index.html"/>
+      <url>/dailyPhoto/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
@@ -755,20 +777,9 @@
     
     
     <entry>
-      <title>即刻短文</title>
-      <link href="/essay/index.html"/>
-      <url>/essay/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -780,39 +791,6 @@
       <title>music</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我的相册</title>
-      <link href="/wordScenery/index.html"/>
-      <url>/wordScenery/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>时间轴</title>
-      <link href="/timeline/index.html"/>
-      <url>/timeline/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2025</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的相册页面</li></ul><img class="inline-img" src="https://www.helloimg.com/i/2025/03/23/67df8c0947f88.png" style="height:150px"/></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的装备页面</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-19</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>新增时间轴样式支持</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-18</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>增加侧边栏倒计时</li><li>更改侧边栏公告</li><li>增加侧边栏最近评论</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-17</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>优化文章排版，双栏改为单栏</li></ul><!-- timeline 02-11 --><p><strong>主题升级</strong></p><ul><li>支持评论系统，使用twikoo</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-05</p></div></div><div class='timeline-item-content'><p><strong>技术探索</strong></p><ol><li>在github上部署Hexo博客</li><li>探索anzhiyu主题定制方法</li><li><mark class="hl-label green">完成度100%</mark></li></ol></div></div></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -833,10 +811,43 @@
     
     <entry>
       <title></title>
+      <link href="/static/countdown.js"/>
+      <url>/static/countdown.js</url>
+      
+        <content type="html"><![CDATA[const CountdownTimer = (() => {    const config = {        targetDate: "2025-05-1",        targetName: "劳动节",        units: {            day: { text: "今日", unit: "小时" },            week: { text: "本周", unit: "天" },            month: { text: "本月", unit: "天" },            year: { text: "本年", unit: "天" }        }    };    const calculators = {        day: () => {            const hours = new Date().getHours();            return {                remaining: 24 - hours,                percentage: (hours / 24) * 100            };        },        week: () => {            const day = new Date().getDay();            const passed = day === 0 ? 6 : day - 1;            return {                remaining: 6 - passed,                percentage: ((passed + 1) / 7) * 100            };        },        month: () => {            const now = new Date();            const total = new Date(now.getFullYear(), now.getMonth() + 1, 0).getDate();            const passed = now.getDate() - 1;            return {                remaining: total - passed,                percentage: (passed / total) * 100            };        },        year: () => {            const now = new Date();            const start = new Date(now.getFullYear(), 0, 1);            const total = 365 + (now.getFullYear() % 4 === 0 ? 1 : 0);            const passed = Math.floor((now - start) / 86400000);            return {                remaining: total - passed,                percentage: (passed / total) * 100            };        }    };    function updateCountdown() {        const elements = ['eventName', 'eventDate', 'daysUntil', 'countRight']            .map(id => document.getElementById(id));                if (elements.some(el => !el)) return;                const [eventName, eventDate, daysUntil, countRight] = elements;        const now = new Date();        const target = new Date(config.targetDate);                eventName.textContent = config.targetName;        eventDate.textContent = config.targetDate;        daysUntil.textContent = Math.round((target - now.setHours(0,0,0,0)) / 86400000);                countRight.innerHTML = Object.entries(config.units)            .map(([key, {text, unit}]) => {                const {remaining, percentage} = calculators[key]();                return `                    <div class="cd-count-item">                        <div class="cd-item-name">${text}</div>                        <div class="cd-item-progress">                            <div class="cd-progress-bar" style="width: ${percentage}%; opacity: ${percentage/100}"></div>                            <span class="cd-percentage ${percentage >= 46 ? 'cd-many' : ''}">${percentage.toFixed(2)}%</span>                            <span class="cd-remaining ${percentage >= 60 ? 'cd-many' : ''}">                                <span class="cd-tip">还剩</span>${remaining}<span class="cd-tip">${unit}</span>                            </span>                        </div>                    </div>                `;            }).join('');    }    function injectStyles() {        const styles = `            .card-countdown .item-content {                display: flex;            }            .cd-count-left {                position: relative;                display: flex;                flex-direction: column;                margin-right: 0.8rem;                line-height: 1.5;                align-items: center;                justify-content: center;            }            .cd-count-left .cd-text {                font-size: 14px;            }            .cd-count-left .cd-name {                font-weight: bold;                font-size: 18px;            }            .cd-count-left .cd-time {                font-size: 30px;                font-weight: bold;                color: var(--anzhiyu-main);            }            .cd-count-left .cd-date {                font-size: 12px;                opacity: 0.6;            }            .cd-count-left::after {                content: "";                position: absolute;                right: -0.8rem;                width: 2px;                height: 80%;                background-color: var(--anzhiyu-main);                opacity: 0.5;            }            .cd-count-right {                flex: 1;                margin-left: .8rem;                display: flex;                flex-direction: column;                justify-content: space-between;            }            .cd-count-item {                display: flex;                flex-direction: row;                align-items: center;                height: 24px;            }            .cd-item-name {                font-size: 14px;                margin-right: 0.8rem;                white-space: nowrap;            }            .cd-item-progress {                position: relative;                display: flex;                flex-direction: row;                align-items: center;                justify-content: space-between;                height: 100%;                width: 100%;                border-radius: 8px;                background-color: var(--anzhiyu-background);                overflow: hidden;            }            .cd-progress-bar {                height: 100%;                border-radius: 8px;                background-color: var(--anzhiyu-main);            }            .cd-percentage,            .cd-remaining {                position: absolute;                font-size: 12px;                margin: 0 6px;                transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;            }            .cd-many {                color: #fff;            }            .cd-remaining {                opacity: 0;                transform: translateX(10px);            }            .card-countdown .item-content:hover .cd-remaining {                transform: translateX(0);                opacity: 1;            }            .card-countdown .item-content:hover .cd-percentage {                transform: translateX(-10px);                opacity: 0;            }        `;        const styleSheet = document.createElement("style");        styleSheet.textContent = styles;        document.head.appendChild(styleSheet);    }    let timer;    const start = () => {        injectStyles();        updateCountdown();        timer = setInterval(updateCountdown, 600000);    };        ['pjax:complete', 'DOMContentLoaded'].forEach(event => document.addEventListener(event, start));    document.addEventListener('pjax:send', () => timer && clearInterval(timer));        return { start, stop: () => timer && clearInterval(timer) };})();]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/static/comments.js"/>
       <url>/static/comments.js</url>
       
         <content type="html"><![CDATA[(() => {    const injectCSS = () => {      const style = document.createElement('style');      style.textContent = `        #aside-content .aside-list > .aside-list-item .content{          width: 3.2em !important;          height: 3.2em !important;          display: flex;          flex-direction: column;          justify-content: space-around;        }        #aside-content .aside-list > .aside-list-item .thumbnail {          width: 3.2em!important;          height: 3.2em!important;        }                .card-latest-comments .item-headline i {          color: var(--anzhiyu-main);        }          .card-latest-comments .headline-right {          position: absolute;          right: 24px;          top: 16px;          transition: all 0.3s;          opacity: 0.6;        }          .card-latest-comments .headline-right:hover {          color: var(--anzhiyu-main);          opacity: 1;          transform: rotate(90deg);        }          .aside-list-author {          display: flex;          align-items: center;          font-weight: bold;          height: 22px;          gap: 5px;        }          .aside-list-date {          font-size: 0.7rem;          font-weight: normal;          margin-left: auto;        }          .aside-list-content {          font-size: 0.9rem;          overflow: hidden;          text-overflow: ellipsis;          white-space: nowrap;          text-decoration: none;          line-height: 1.2;        }          .aside-list-item:last-child {          margin-bottom: 0!important;        }          [data-theme='dark'] .aside-list-item-right {          filter: brightness(0.95);        }          .aside-list-author-name {          display: flex;          align-items: center;          white-space: nowrap;          gap: 4px;          max-width: 65%;        }          .aside-list-author-name span {          overflow: hidden;          text-overflow: ellipsis;        }          .aside-list-author-name svg {          flex-shrink: 0;        }      `;      document.head.appendChild(style);    };      const LatestComments = {      API_URL: 'https://twikoo.everett.fun/',      ADMIN_EMAIL_MD5: 'dd6f501927c7534b5e21a9dda1038da9d395258306c1a547944602776adc1223',      PAGE_SIZE: 5,      LOADING_GIF: 'https://lib.bsgun.cn/Hexo-static/img/loading.gif',          async fetchComments() {        const controller = new AbortController();        const timeoutId = setTimeout(() => controller.abort(), 5000);            try {          const response = await fetch(this.API_URL, {            method: 'POST',            headers: { 'Content-Type': 'application/json' },            body: JSON.stringify({              event: 'GET_RECENT_COMMENTS',              includeReply: true,              pageSize: this.PAGE_SIZE            }),            signal: controller.signal          });              const { data } = await response.json();          return data;        } catch (error) {          console.error('获取评论出错:', error);          return null;        } finally {          clearTimeout(timeoutId);        }      },          formatTimeAgo(timestamp) {        const diff = Math.floor((Date.now() - new Date(timestamp)) / 1000);        if (diff < 60) return '刚刚';        if (diff < 3600) return `${Math.floor(diff / 60)}分钟前`;        if (diff < 86400) return `${Math.floor(diff / 3600)}小时前`;        if (diff < 604800) return `${Math.floor(diff / 86400)}天前`;            return new Date(timestamp).toLocaleDateString('zh-CN', { month: 'numeric', day: 'numeric' }) + '日';      },          formatContent(content) {        if (!content) return '';                return content          .replace(/<pre><code>[\s\S]*?<\/code><\/pre>/g, '[代码块]')          .replace(/<code>([^<]{4,})<\/code>/g, '[代码]')          .replace(/<code>([^<]{1,3})<\/code>/g, '$1')          .replace(/<img[^>]*>/g, '[图片]')          .replace(/<a[^>]*?>[\s\S]*?<\/a>/g, '[链接]')          .replace(/<[^>]+>/g, '')          .replace(/&(gt|lt|amp|quot|#39|nbsp);/g, m =>             ({'>':'>', '<':'<', '&':'&', 'quot':'"', '#39':"'", 'nbsp':' '})[m.slice(1,-1)])          .replace(/\s+/g, ' ')          .trim();      },          generateCommentHTML(comment) {        const { created, comment: content, url, avatar, nick, mailMd5, id } = comment;        const timeAgo = this.formatTimeAgo(created);        const formattedContent = this.formatContent(content);        const adminBadge = mailMd5 === this.ADMIN_EMAIL_MD5 ? `          <svg t="1731283534336" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="29337" width="22" height="22"><path d="M512 0C230.4 0 0 230.4 0 512s230.4 512 512 512 512-230.4 512-512S793.6 0 512 0z m291.84 366.08c-46.08 0-79.36 23.04-92.16 66.56l-163.84 358.4h-66.56L312.32 435.2c-17.92-46.08-46.08-71.68-89.6-71.68v-35.84H512v35.84h-40.96c-25.6 2.56-30.72 23.04-12.8 61.44l102.4 225.28 89.6-199.68c25.6-56.32 2.56-84.48-71.68-89.6v-35.84h225.28v40.96z" fill="#06c013" p-id="29338" data-spm-anchor-id="a313x.search_index.0.i73.2b2d3a81BgxnVW" class=""></path></svg>` : '';            return `          <div class="aside-list-item" title="${formattedContent}" onclick="pjax.loadUrl('${url}#${id}')">            <div class="thumbnail">              <img class="aside-list-avatar" src="${avatar}" alt="avatar">            </div>            <div class="content">              <div class="aside-list-author">                <div class="aside-list-author-name">                  <span>${nick}</span>${adminBadge}                </div>                <span class="aside-list-date">${timeAgo}</span>              </div>              <div class="aside-list-content">${formattedContent}</div>            </div>          </div>        `;      },          getErrorTemplate(icon, message) {        return `          <div style="min-height: 346px;display: flex;padding: 20px;text-align: center;justify-content: center;align-items: center;flex-direction: column;">            <i class="fas fa-${icon}" style="font-size: 2rem; color: ${icon === 'exclamation-circle' ? '#ff6b6b' : '#999'}; margin-bottom: 10px;"></i>            <p style="color: #666;margin: 0;">${message}</p>          </div>        `;      },          async insertComponent() {        const container = document.getElementById("latest-comments");        if (!container) return;            container.innerHTML = `<img src="${this.LOADING_GIF}" style="display: flex;min-height: 346px;object-fit: cover;">`;            const comments = await this.fetchComments();        let content;            if (comments === null) {          content = this.getErrorTemplate('exclamation-circle', '评论加载失败，请稍后再试');        } else if (comments.length === 0) {          content = this.getErrorTemplate('comment-slash', '还没有评论呢~ 快来抢沙发吧！');        } else {          content = comments.map(this.generateCommentHTML.bind(this)).join('');        }            container.style.opacity = '0';        container.innerHTML = content;            requestAnimationFrame(() => {          container.style.transition = 'opacity 0.3s ease-in';          container.style.opacity = '1';        });      }    };        // 初始化时注入CSS并启动组件    ['DOMContentLoaded', 'pjax:success'].forEach(event =>       document.addEventListener(event, () => {        injectCSS();        LatestComments.insertComponent();      })    );  })();]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>时间轴</title>
+      <link href="/timeline/index.html"/>
+      <url>/timeline/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2025</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的相册页面</li></ul><img class="inline-img" src="https://www.helloimg.com/i/2025/03/23/67df8c0947f88.png" style="height:150px"/></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的装备页面</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-19</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>新增时间轴样式支持</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-18</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>增加侧边栏倒计时</li><li>更改侧边栏公告</li><li>增加侧边栏最近评论</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-17</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>优化文章排版，双栏改为单栏</li></ul><!-- timeline 02-11 --><p><strong>主题升级</strong></p><ul><li>支持评论系统，使用twikoo</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-05</p></div></div><div class='timeline-item-content'><p><strong>技术探索</strong></p><ol><li>在github上部署Hexo博客</li><li>探索anzhiyu主题定制方法</li><li><mark class="hl-label green">完成度100%</mark></li></ol></div></div></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的相册</title>
+      <link href="/wordScenery/index.html"/>
+      <url>/wordScenery/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
@@ -859,17 +870,6 @@
       <url>/privacy/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>&emsp;&emsp;本站非常重视用户的隐私和个人信息保护。你在使用网站时，可能会收集和使用你的相关信息。通过《隐私政策》向你说明在你访问<a href="https://www.everett.top/"><strong>煎饼狗子的博客</strong></a>网站时，如何收集、使用、保存、共享和转让这些信息。</p><h2 id="最新更新时间"><a href="#最新更新时间" class="headerlink" title="最新更新时间"></a>最新更新时间</h2><p>&emsp;&emsp;协议最新更新时间为：<code>2025-02-19</code></p><h2 id="一、在访问时如何收集和使用你的个人信息"><a href="#一、在访问时如何收集和使用你的个人信息" class="headerlink" title="一、在访问时如何收集和使用你的个人信息"></a>一、在访问时如何收集和使用你的个人信息</h2><h3 id="在访问时，收集访问信息的服务会收集不限于以下信息："><a href="#在访问时，收集访问信息的服务会收集不限于以下信息：" class="headerlink" title="在访问时，收集访问信息的服务会收集不限于以下信息："></a>在访问时，收集访问信息的服务会收集不限于以下信息：</h3><ul><li><strong>网络身份标识信息</strong>（浏览器 UA、IP 地址）</li><li><strong>设备信息</strong></li><li><strong>浏览过程</strong>（操作方式、浏览方式与时长、性能与网络加载情况）。</li></ul><h3 id="在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息："><a href="#在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息：" class="headerlink" title="在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息："></a>在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息：</h3><ul><li><strong>bing统计工具</strong> 会收集你的访问信息、访问操作过程</li><li><strong>busuanzi</strong> 统计 会收集你的访问信息</li><li><strong>网易云 音乐</strong> 会收集你的访问信息</li></ul><h3 id="在访问时，本人仅会处于以下目的，使用你的个人信息："><a href="#在访问时，本人仅会处于以下目的，使用你的个人信息：" class="headerlink" title="在访问时，本人仅会处于以下目的，使用你的个人信息："></a>在访问时，本人仅会处于以下目的，使用你的个人信息：</h3><ul><li>用于网站的优化与文章分类，用户优化文章</li><li>恶意访问识别，用于维护网站</li><li>恶意攻击排查，用于维护网站</li><li>网站点击情况监测，用于优化网站页面</li><li>网站加载情况监测，用于优化网站性能</li><li>用于网站搜索结果优化</li><li>浏览数据的展示</li></ul><h3 id="第三方信息获取方将您的数据用于以下用途："><a href="#第三方信息获取方将您的数据用于以下用途：" class="headerlink" title="第三方信息获取方将您的数据用于以下用途："></a>第三方信息获取方将您的数据用于以下用途：</h3><p>&emsp;&emsp;第三方可能会用于其他目的，详情请访问对应第三方服务提供的隐私协议。</p><h3 id="你应该知道在你访问的时候不限于以下信息会被第三方获取并使用："><a href="#你应该知道在你访问的时候不限于以下信息会被第三方获取并使用：" class="headerlink" title="你应该知道在你访问的时候不限于以下信息会被第三方获取并使用："></a>你应该知道在你访问的时候不限于以下信息会被第三方获取并使用：</h3><p>&emsp;&emsp;第三方部分为了抵抗攻击、使用不同节点 cdn 加速等需求会收集不限于以下信息</p><div class="table-wrap">  <table>    <thead>      <tr>        <th>类型<div style="width:100px"></div></th><th>信息</th>      </tr>    </thead>    <tbody>      <tr>        <td td="" colspan="2"><b>网络信息</b></td>      </tr>      <tr>        <td>IP地址</td><td><strong id="userAgentIp">未能获取到信息</strong></td>      </tr>      <tr>        <td>城市</td><td><strong id="userAgentCity">未能获取到信息</strong></td>      </tr>      <tr>        <td td="" colspan="2"><b>设备信息</b></td>      </tr>      <tr>        <td>系统</td><td><strong id="userAgentOs">未能获取到信息</strong></td>      </tr>    </tbody>  </table>  <div style="color:var(--anzhiyu-gray);font-size:14px">    此页面如果未能获取到信息并不代表无法读取上述信息，以实际情况为准。  </div>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/static/countdown.js"/>
-      <url>/static/countdown.js</url>
-      
-        <content type="html"><![CDATA[const CountdownTimer = (() => {    const config = {        targetDate: "2025-05-1",        targetName: "劳动节",        units: {            day: { text: "今日", unit: "小时" },            week: { text: "本周", unit: "天" },            month: { text: "本月", unit: "天" },            year: { text: "本年", unit: "天" }        }    };    const calculators = {        day: () => {            const hours = new Date().getHours();            return {                remaining: 24 - hours,                percentage: (hours / 24) * 100            };        },        week: () => {            const day = new Date().getDay();            const passed = day === 0 ? 6 : day - 1;            return {                remaining: 6 - passed,                percentage: ((passed + 1) / 7) * 100            };        },        month: () => {            const now = new Date();            const total = new Date(now.getFullYear(), now.getMonth() + 1, 0).getDate();            const passed = now.getDate() - 1;            return {                remaining: total - passed,                percentage: (passed / total) * 100            };        },        year: () => {            const now = new Date();            const start = new Date(now.getFullYear(), 0, 1);            const total = 365 + (now.getFullYear() % 4 === 0 ? 1 : 0);            const passed = Math.floor((now - start) / 86400000);            return {                remaining: total - passed,                percentage: (passed / total) * 100            };        }    };    function updateCountdown() {        const elements = ['eventName', 'eventDate', 'daysUntil', 'countRight']            .map(id => document.getElementById(id));                if (elements.some(el => !el)) return;                const [eventName, eventDate, daysUntil, countRight] = elements;        const now = new Date();        const target = new Date(config.targetDate);                eventName.textContent = config.targetName;        eventDate.textContent = config.targetDate;        daysUntil.textContent = Math.round((target - now.setHours(0,0,0,0)) / 86400000);                countRight.innerHTML = Object.entries(config.units)            .map(([key, {text, unit}]) => {                const {remaining, percentage} = calculators[key]();                return `                    <div class="cd-count-item">                        <div class="cd-item-name">${text}</div>                        <div class="cd-item-progress">                            <div class="cd-progress-bar" style="width: ${percentage}%; opacity: ${percentage/100}"></div>                            <span class="cd-percentage ${percentage >= 46 ? 'cd-many' : ''}">${percentage.toFixed(2)}%</span>                            <span class="cd-remaining ${percentage >= 60 ? 'cd-many' : ''}">                                <span class="cd-tip">还剩</span>${remaining}<span class="cd-tip">${unit}</span>                            </span>                        </div>                    </div>                `;            }).join('');    }    function injectStyles() {        const styles = `            .card-countdown .item-content {                display: flex;            }            .cd-count-left {                position: relative;                display: flex;                flex-direction: column;                margin-right: 0.8rem;                line-height: 1.5;                align-items: center;                justify-content: center;            }            .cd-count-left .cd-text {                font-size: 14px;            }            .cd-count-left .cd-name {                font-weight: bold;                font-size: 18px;            }            .cd-count-left .cd-time {                font-size: 30px;                font-weight: bold;                color: var(--anzhiyu-main);            }            .cd-count-left .cd-date {                font-size: 12px;                opacity: 0.6;            }            .cd-count-left::after {                content: "";                position: absolute;                right: -0.8rem;                width: 2px;                height: 80%;                background-color: var(--anzhiyu-main);                opacity: 0.5;            }            .cd-count-right {                flex: 1;                margin-left: .8rem;                display: flex;                flex-direction: column;                justify-content: space-between;            }            .cd-count-item {                display: flex;                flex-direction: row;                align-items: center;                height: 24px;            }            .cd-item-name {                font-size: 14px;                margin-right: 0.8rem;                white-space: nowrap;            }            .cd-item-progress {                position: relative;                display: flex;                flex-direction: row;                align-items: center;                justify-content: space-between;                height: 100%;                width: 100%;                border-radius: 8px;                background-color: var(--anzhiyu-background);                overflow: hidden;            }            .cd-progress-bar {                height: 100%;                border-radius: 8px;                background-color: var(--anzhiyu-main);            }            .cd-percentage,            .cd-remaining {                position: absolute;                font-size: 12px;                margin: 0 6px;                transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;            }            .cd-many {                color: #fff;            }            .cd-remaining {                opacity: 0;                transform: translateX(10px);            }            .card-countdown .item-content:hover .cd-remaining {                transform: translateX(0);                opacity: 1;            }            .card-countdown .item-content:hover .cd-percentage {                transform: translateX(-10px);                opacity: 0;            }        `;        const styleSheet = document.createElement("style");        styleSheet.textContent = styles;        document.head.appendChild(styleSheet);    }    let timer;    const start = () => {        injectStyles();        updateCountdown();        timer = setInterval(updateCountdown, 600000);    };        ['pjax:complete', 'DOMContentLoaded'].forEach(event => document.addEventListener(event, start));    document.addEventListener('pjax:send', () => timer && clearInterval(timer));        return { start, stop: () => timer && clearInterval(timer) };})();]]></content>
       
     </entry>
     
