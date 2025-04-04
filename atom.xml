@@ -6,7 +6,7 @@
   <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiahui-shang.github.io/"/>
-  <updated>2025-04-04T06:01:03.475Z</updated>
+  <updated>2025-04-04T06:03:39.135Z</updated>
   <id>http://jiahui-shang.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://jiahui-shang.github.io/2025/03/29/%E4%B8%89%E6%9C%88%E6%80%BB%E7%BB%93/"/>
     <id>http://jiahui-shang.github.io/2025/03/29/%E4%B8%89%E6%9C%88%E6%80%BB%E7%BB%93/</id>
     <published>2025-03-29T06:10:32.000Z</published>
-    <updated>2025-04-04T06:01:03.475Z</updated>
+    <updated>2025-04-04T06:03:39.135Z</updated>
     
     
     <summary type="html">在三月，作者成功控制了饮食消费，同时培养兴趣爱好并保持对科技的关注。上半月生活较为平淡，参与了无人机考证和“双创”招募；下半月经历大降温，学习了口琴，并开始关注人工智能（AI）。在个人成长方面，作者参与了学雷锋活动，完成了无人机考证材料的准备，并报考了计算机二级考试（web程序设计），尽管对选择的考试科目稍有后悔。在人工智能领域，作者回顾了自GPT-3.5发布以来对生成式AI的关注，详细介绍了文字（如DeepSeek V3的编程能力和鲁迅风格写作风格、Qwen的32B推理模型、文心一言的更新）、图像（OpenAI升级GPT4o画图功能）、音乐（天谱乐乐曲模型v3.5的体验）以及新技术（MCP协议）等方面的进展。文章展现了作者对AI技术发展的持续热情和对个人成长的反思。</summary>
@@ -30,6 +30,8 @@
     
     <category term="生活" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
+    
+    <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
@@ -96,9 +98,9 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
-    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
-    
     <category term="教程" scheme="http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
     
     <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
@@ -487,11 +489,11 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
-    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
-    
     <category term="开源" scheme="http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/"/>
     
     <category term="天文" scheme="http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/"/>
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
     
     <category term="前端" scheme="http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
