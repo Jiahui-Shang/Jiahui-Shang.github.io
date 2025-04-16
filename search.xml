@@ -105,9 +105,9 @@
       
         <tags>
             
-            <tag> 地理 </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> 地理 </tag>
             
             <tag> 笔记 </tag>
             
@@ -466,9 +466,9 @@
       
         <tags>
             
-            <tag> 地理 </tag>
-            
             <tag> 人工智能 </tag>
+            
+            <tag> 地理 </tag>
             
             <tag> DeepSeek </tag>
             
@@ -520,11 +520,11 @@
       
         <tags>
             
+            <tag> 地理 </tag>
+            
             <tag> 开源 </tag>
             
             <tag> 天文 </tag>
-            
-            <tag> 地理 </tag>
             
             <tag> 前端 </tag>
             
@@ -612,17 +612,6 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>归档</title>
       <link href="/archives/index.html"/>
       <url>/archives/index.html</url>
@@ -656,9 +645,20 @@
     
     
     <entry>
-      <title>cinemas</title>
-      <link href="/cinemas/index.html"/>
-      <url>/cinemas/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><style>  #libCategories .card-wrap:hover .card-info:after {    width: 300%;  }</style><link rel="stylesheet" type="text/css" href="https://npm.elemecdn.com/js-heo@1.0.11/3dCard/no3d.css"><div id='libCategories'><div id="lib-cards" class="container"><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/AI/")'><card data-image="https://tse1-mm.cn.bing.net/th/id/OIP-C.vpk0QN6gR2_ruPRYO5kKoAHaE8?rs=1&pid=ImgDetMain"><h1 slot="header">人工智能</h1><p slot="content">与AI相关的文章</p></card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/笔记/")'>  <card data-image="https://img.51miz.com/Photo/2017/05/19/05/P1104383_ab92c6e7120de4843ae86772ea9127e7.jpg">    <h1 slot="header">笔记</h1>    <p slot="content">学习的证明</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/生活/")'>  <card data-image="https://img02.anheyu.com/adminuploads/1/2022/09/05/6315e142a69a9.webp">    <h1 slot="header">生活</h1>    <p slot="content">经历的有趣事</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/地理/")'>  <card data-image="https://pic1.zhimg.com/v2-f1cd63164d1ff922c286ff631cb22f9b_1440w.jpg?source=172ae18b">    <h1 slot="header">地理</h1>    <p slot="content">我喜欢的科目</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/教程/")'>  <card data-image="https://bu.dusays.com/2025/03/15/67d536f487587.png">    <h1 slot="header">教程</h1>    <p slot="content">将就着看，有点帮助</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/无人机/")'>  <card data-image="https://pic3.zhimg.com/v2-585dd36f879f85351ec450cf7d85c94e_r.jpg">    <h1 slot="header">无人机</h1>    <p slot="content">我的专业</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/前端/")'>  <card data-image="https://www.sgpjbg.com/FileUpload/ueditor_s/upload/2022-7/27/6379454033690892559767137.jpg">    <h1 slot="header">前端</h1>    <p slot="content">没什么好描述的~</p>  </card></a></div></div><script src='https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.14/vue.min.js' data-pjax></script><script type="text/javascript" src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.7/no3d/no3d.js" data-pjax></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -678,20 +678,20 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title></title>
+      <link href="/json/music.json"/>
+      <url>/json/music.json</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><style>  #libCategories .card-wrap:hover .card-info:after {    width: 300%;  }</style><link rel="stylesheet" type="text/css" href="https://npm.elemecdn.com/js-heo@1.0.11/3dCard/no3d.css"><div id='libCategories'><div id="lib-cards" class="container"><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/AI/")'><card data-image="https://tse1-mm.cn.bing.net/th/id/OIP-C.vpk0QN6gR2_ruPRYO5kKoAHaE8?rs=1&pid=ImgDetMain"><h1 slot="header">人工智能</h1><p slot="content">与AI相关的文章</p></card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/笔记/")'>  <card data-image="https://img.51miz.com/Photo/2017/05/19/05/P1104383_ab92c6e7120de4843ae86772ea9127e7.jpg">    <h1 slot="header">笔记</h1>    <p slot="content">学习的证明</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/生活/")'>  <card data-image="https://img02.anheyu.com/adminuploads/1/2022/09/05/6315e142a69a9.webp">    <h1 slot="header">生活</h1>    <p slot="content">经历的有趣事</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/地理/")'>  <card data-image="https://pic1.zhimg.com/v2-f1cd63164d1ff922c286ff631cb22f9b_1440w.jpg?source=172ae18b">    <h1 slot="header">地理</h1>    <p slot="content">我喜欢的科目</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/教程/")'>  <card data-image="https://bu.dusays.com/2025/03/15/67d536f487587.png">    <h1 slot="header">教程</h1>    <p slot="content">将就着看，有点帮助</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/无人机/")'>  <card data-image="https://pic3.zhimg.com/v2-585dd36f879f85351ec450cf7d85c94e_r.jpg">    <h1 slot="header">无人机</h1>    <p slot="content">我的专业</p>  </card></a><a href='javascript:void(0);' onClick='pjax.loadUrl("/categories/前端/")'>  <card data-image="https://www.sgpjbg.com/FileUpload/ueditor_s/upload/2022-7/27/6379454033690892559767137.jpg">    <h1 slot="header">前端</h1>    <p slot="content">没什么好描述的~</p>  </card></a></div></div><script src='https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/vue/2.6.14/vue.min.js' data-pjax></script><script type="text/javascript" src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.7/no3d/no3d.js" data-pjax></script>]]></content>
+        <content type="html"><![CDATA[[{"name":"青花瓷","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002eFUFm2XYZ7z_2.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.lrc"},{"name":"稻香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.lrc"},{"name":"晴天","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.lrc"},{"name":"七里香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.lrc"},{"name":"花海","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.lrc"},{"name":"反方向的钟","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.lrc"},{"name":"兰亭序","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.lrc"},{"name":"说好的辛福呢","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的辛福呢.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的幸福呢.lrc"},{"name":"等你下课 (with 杨瑞代)","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003bSL0v4bpKAx_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.lrc"},{"name":"我落泪情绪零碎","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000bviBl4FjTpO_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.lrc"},{"name":"听妈妈的话","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.lrc"},{"name":"明明就","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003Ow85E3pnoqi_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.lrc"},{"name":"我是如此相信","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000001hGx1Z0so1YX_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.lrc"},{"name":"发如雪","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M0000024bjiL2aocxT_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.lrc"},{"name":"以父之名","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.lrc"},{"name":"园游会","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.lrc"},{"name":"本草纲目","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.lrc"},{"name":"龙卷风","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.lrc"}]]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>我的装备</title>
-      <link href="/equipment/index.html"/>
-      <url>/equipment/index.html</url>
+      <title>日常生活</title>
+      <link href="/dailyPhoto/index.html"/>
+      <url>/dailyPhoto/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -700,9 +700,9 @@
     
     
     <entry>
-      <title>games</title>
-      <link href="/games/index.html"/>
-      <url>/games/index.html</url>
+      <title>即刻短文</title>
+      <link href="/essay/index.html"/>
+      <url>/essay/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -722,9 +722,9 @@
     
     
     <entry>
-      <title>即刻短文</title>
-      <link href="/essay/index.html"/>
-      <url>/essay/index.html</url>
+      <title>games</title>
+      <link href="/games/index.html"/>
+      <url>/games/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -733,31 +733,9 @@
     
     
     <entry>
-      <title>隐私政策</title>
-      <link href="/privacy/index.html"/>
-      <url>/privacy/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>&emsp;&emsp;本站非常重视用户的隐私和个人信息保护。你在使用网站时，可能会收集和使用你的相关信息。通过《隐私政策》向你说明在你访问<a href="https://www.everett.top/"><strong>煎饼狗子的博客</strong></a>网站时，如何收集、使用、保存、共享和转让这些信息。</p><h2 id="最新更新时间"><a href="#最新更新时间" class="headerlink" title="最新更新时间"></a>最新更新时间</h2><p>&emsp;&emsp;协议最新更新时间为：<code>2025-02-19</code></p><h2 id="一、在访问时如何收集和使用你的个人信息"><a href="#一、在访问时如何收集和使用你的个人信息" class="headerlink" title="一、在访问时如何收集和使用你的个人信息"></a>一、在访问时如何收集和使用你的个人信息</h2><h3 id="在访问时，收集访问信息的服务会收集不限于以下信息："><a href="#在访问时，收集访问信息的服务会收集不限于以下信息：" class="headerlink" title="在访问时，收集访问信息的服务会收集不限于以下信息："></a>在访问时，收集访问信息的服务会收集不限于以下信息：</h3><ul><li><strong>网络身份标识信息</strong>（浏览器 UA、IP 地址）</li><li><strong>设备信息</strong></li><li><strong>浏览过程</strong>（操作方式、浏览方式与时长、性能与网络加载情况）。</li></ul><h3 id="在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息："><a href="#在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息：" class="headerlink" title="在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息："></a>在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息：</h3><ul><li><strong>bing统计工具</strong> 会收集你的访问信息、访问操作过程</li><li><strong>busuanzi</strong> 统计 会收集你的访问信息</li><li><strong>网易云 音乐</strong> 会收集你的访问信息</li></ul><h3 id="在访问时，本人仅会处于以下目的，使用你的个人信息："><a href="#在访问时，本人仅会处于以下目的，使用你的个人信息：" class="headerlink" title="在访问时，本人仅会处于以下目的，使用你的个人信息："></a>在访问时，本人仅会处于以下目的，使用你的个人信息：</h3><ul><li>用于网站的优化与文章分类，用户优化文章</li><li>恶意访问识别，用于维护网站</li><li>恶意攻击排查，用于维护网站</li><li>网站点击情况监测，用于优化网站页面</li><li>网站加载情况监测，用于优化网站性能</li><li>用于网站搜索结果优化</li><li>浏览数据的展示</li></ul><h3 id="第三方信息获取方将您的数据用于以下用途："><a href="#第三方信息获取方将您的数据用于以下用途：" class="headerlink" title="第三方信息获取方将您的数据用于以下用途："></a>第三方信息获取方将您的数据用于以下用途：</h3><p>&emsp;&emsp;第三方可能会用于其他目的，详情请访问对应第三方服务提供的隐私协议。</p><h3 id="你应该知道在你访问的时候不限于以下信息会被第三方获取并使用："><a href="#你应该知道在你访问的时候不限于以下信息会被第三方获取并使用：" class="headerlink" title="你应该知道在你访问的时候不限于以下信息会被第三方获取并使用："></a>你应该知道在你访问的时候不限于以下信息会被第三方获取并使用：</h3><p>&emsp;&emsp;第三方部分为了抵抗攻击、使用不同节点 cdn 加速等需求会收集不限于以下信息</p><div class="table-wrap">  <table>    <thead>      <tr>        <th>类型<div style="width:100px"></div></th><th>信息</th>      </tr>    </thead>    <tbody>      <tr>        <td td="" colspan="2"><b>网络信息</b></td>      </tr>      <tr>        <td>IP地址</td><td><strong id="userAgentIp">未能获取到信息</strong></td>      </tr>      <tr>        <td>城市</td><td><strong id="userAgentCity">未能获取到信息</strong></td>      </tr>      <tr>        <td td="" colspan="2"><b>设备信息</b></td>      </tr>      <tr>        <td>系统</td><td><strong id="userAgentOs">未能获取到信息</strong></td>      </tr>    </tbody>  </table>  <div style="color:var(--anzhiyu-gray);font-size:14px">    此页面如果未能获取到信息并不代表无法读取上述信息，以实际情况为准。  </div>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>最新评论</title>
-      <link href="/messages/index.html"/>
-      <url>/messages/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="author-content author-content-item single" style="background:url(https://dailybing.com/api/v1/) center /cover no-repeat!important">    <div class="card-content">        <div class="author-content-item-tips">速览</div>        <span class="author-content-item-title">最新评论</span>        <div class="content-bottom">            <div class="tips">快速预览本站最新评论</div>        </div>        <div class="banner-button-group">            <a class="banner-button" style="padding: 8px 12px;color: var(--anzhiyu-white);" onclick="pjax.loadUrl(&quot;/about&quot;)" data-pjax-state="">                <i class="anzhiyufont anzhiyu-icon-arrow-circle-right" style="font-size:22px;margin-right:.25rem"></i>                <span class="banner-button-text">关于本人</span>            </a>        </div>    </div></div><div id="comments-page">    <img src="https://lib.bsgun.cn/Hexo-static/img/loading.gif"></div><style>/* 全局样式 */h1 {    display: none;}div#page {    background: none !important;    box-shadow: none;    padding: 0;    border: none;}/* 评论页面容器 */#comments-page {    display: flex;    flex-wrap: wrap;    gap: 12px;    width: 100%;    margin-top: 1.5rem;    justify-content: center;}/* 评论卡片基础样式 */.comment-card {    position: relative;    width: calc(100% / 4 - 9px);    border-radius: 12px;    border: 1px solid var(--anzhiyu-card-border);    padding: 14px;    overflow: hidden;    box-shadow: var(--anzhiyu-shadow-border);    animation: slide-in .6s .4s backwards;    background-color: var(--anzhiyu-card-bg);    transition: all .3s ease-in-out;}.comment-card:hover {    border: 1px solid var(--anzhiyu-main);}/* 评论信息区域 */.comment-info {    padding-bottom: 5px;    border-bottom: 2px dashed var(--anzhiyu-theme-op);}.comment-information {    display: flex;    flex-direction: column;}.comment-user {    font-weight: bold;}.comment-time {    font-size: 12px;    color: var(--anzhiyu-secondtext);}/* 评论内容 */.comment-content {    position: relative;    z-index: 3;    overflow: hidden;    padding-top: 5px;    text-overflow: ellipsis;    display: -webkit-box;    -webkit-box-orient: vertical;    -webkit-line-clamp: 2;}/* 头像样式 */.avatar-wrapper {    position: absolute;    top: 50%;    right: 10px;    transform: translateY(-50%);    width: 100px;    height: 100px;    border-radius: 50%;    opacity: 0.4;    transition: all 0.3s ease-in-out;    filter: blur(3px);    background-size: cover;    background-position: center;}.comment-card:hover .avatar-wrapper {    transform: translateY(-50%) scale(1.1);    opacity: 0.6;}/* 响应式布局 */@media (max-width: 1024px) {    .comment-card {        width: calc(100% / 2 - 6px);    }}@media (max-width: 768px) {    .comment-card {        width: 100%;    }    .banner-button-group {        display: none;    }}</style><script>(() => {  const MessageComments = {    API_URL: 'https://twikoo.everett.fun/', // 这里填入你的Twikoo服务器地址    ADMIN_EMAIL_MD5: 'dd6f501927c7534b5e21a9dda1038da9d395258306c1a547944602776adc1223', // 这里填入你的邮箱md5值    PAGE_SIZE: 100, // 显示的评论数量 好像最多也就100个    async fetchComments() {      const controller = new AbortController();      const timeoutId = setTimeout(() => controller.abort(), 5000);      try {        const response = await fetch(this.API_URL, {          method: 'POST',          headers: { 'Content-Type': 'application/json' },          body: JSON.stringify({            event: 'GET_RECENT_COMMENTS',            includeReply: true,            pageSize: this.PAGE_SIZE          }),          signal: controller.signal        });        const { data } = await response.json();        return data;      } catch (error) {        console.error('获取评论出错:', error);        return null;      } finally {        clearTimeout(timeoutId);      }    },    formatTimeAgo(timestamp) {      const diff = Math.floor((Date.now() - new Date(timestamp)) / 1000);      if (diff < 60) return '刚刚';      if (diff < 3600) return `${Math.floor(diff / 60)}分钟前`;      if (diff < 86400) return `${Math.floor(diff / 3600)}小时前`;      if (diff < 604800) return `${Math.floor(diff / 86400)}天前`;      return new Date(timestamp).toLocaleDateString('zh-CN', { month: 'numeric', day: 'numeric' }) + '日';    },    formatContent(content) {      if (!content) return '';            return content        .replace(/<pre><code>[\s\S]*?<\/code><\/pre>/g, '[代码块]')        .replace(/<code>([^<]{4,})<\/code>/g, '[代码]')        .replace(/<code>([^<]{1,3})<\/code>/g, '$1')        .replace(/<img[^>]*>/g, '[图片]')        .replace(/<a[^>]*?>[\s\S]*?<\/a>/g, '[链接]')        .replace(/<[^>]+>/g, '')        .replace(/&(gt|lt|amp|quot|#39|nbsp);/g, m =>           ({'>':'>', '<':'<', '&':'&', 'quot':'"', '#39':"'", 'nbsp':' '})[m.slice(1,-1)])        .replace(/\s+/g, ' ')        .trim();    },    generateCommentHTML(comment) {      const { created, comment: content, url, avatar, nick, mailMd5, id } = comment;      const timeAgo = this.formatTimeAgo(created);      const formattedContent = this.formatContent(content);      const adminBadge = mailMd5 === this.ADMIN_EMAIL_MD5 ? '<i class="fa fa-check-circle" style="color: #57bd6a; margin-left: 5px;"></i>' : '';      return `        <div class="comment-card" onclick="pjax.loadUrl('${url}#${id}')" title="点击查看评论">          <div class="avatar-wrapper" style="background-image: url('${avatar}');"></div>          <div class="comment-info">            <div class="comment-information">              <span class="comment-user">                ${nick} ${adminBadge}              </span>              <span class="comment-time">${timeAgo}</span>            </div>          </div>          <div class="comment-content">${formattedContent}</div>        </div>      `;    },    getErrorTemplate(message) {      return `<p style="text-align: center; color: #666;">${message}</p>`;    },    async init() {      const container = document.querySelector('#comments-page');      if (!container) return;      const comments = await this.fetchComments();      let content;      if (comments === null) {        content = this.getErrorTemplate('加载评论时出错，请稍后再试');      } else if (comments.length === 0) {        content = this.getErrorTemplate('没有找到相关评论');      } else {        content = comments.map(this.generateCommentHTML.bind(this)).join('');      }      container.innerHTML = content;      requestAnimationFrame(() => {        container.querySelectorAll('.comment-card').forEach(el => {          el.style.opacity = '1';        });      });    }  };  ['DOMContentLoaded', 'pjax:success'].forEach(event =>     document.addEventListener(event, () => MessageComments.init())  );})();</script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>日常生活</title>
-      <link href="/dailyPhoto/index.html"/>
-      <url>/dailyPhoto/index.html</url>
+      <title>cinemas</title>
+      <link href="/cinemas/index.html"/>
+      <url>/cinemas/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -766,11 +744,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/json/music.json"/>
-      <url>/json/music.json</url>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[[{"name":"青花瓷","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002eFUFm2XYZ7z_2.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.lrc"},{"name":"稻香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.lrc"},{"name":"晴天","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.lrc"},{"name":"七里香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.lrc"},{"name":"花海","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.lrc"},{"name":"反方向的钟","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.lrc"},{"name":"兰亭序","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.lrc"},{"name":"说好的辛福呢","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的辛福呢.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的幸福呢.lrc"},{"name":"等你下课 (with 杨瑞代)","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003bSL0v4bpKAx_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.lrc"},{"name":"我落泪情绪零碎","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000bviBl4FjTpO_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.lrc"},{"name":"听妈妈的话","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.lrc"},{"name":"明明就","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003Ow85E3pnoqi_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.lrc"},{"name":"我是如此相信","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000001hGx1Z0so1YX_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.lrc"},{"name":"发如雪","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M0000024bjiL2aocxT_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.lrc"},{"name":"以父之名","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.lrc"},{"name":"园游会","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.lrc"},{"name":"本草纲目","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.lrc"},{"name":"龙卷风","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.lrc"}]]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的装备</title>
+      <link href="/equipment/index.html"/>
+      <url>/equipment/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
@@ -788,33 +777,11 @@
     
     
     <entry>
-      <title>时间轴</title>
-      <link href="/timeline/index.html"/>
-      <url>/timeline/index.html</url>
+      <title>隐私政策</title>
+      <link href="/privacy/index.html"/>
+      <url>/privacy/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2025</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的相册页面</li></ul><img class="inline-img" src="https://www.helloimg.com/i/2025/03/23/67df8c0947f88.png" style="height:150px"/></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的装备页面</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-19</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>新增时间轴样式支持</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-18</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>增加侧边栏倒计时</li><li>更改侧边栏公告</li><li>增加侧边栏最近评论</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-17</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>优化文章排版，双栏改为单栏</li></ul><!-- timeline 02-11 --><p><strong>主题升级</strong></p><ul><li>支持评论系统，使用twikoo</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-05</p></div></div><div class='timeline-item-content'><p><strong>技术探索</strong></p><ol><li>在github上部署Hexo博客</li><li>探索anzhiyu主题定制方法</li><li><mark class="hl-label green">完成度100%</mark></li></ol></div></div></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>&emsp;&emsp;本站非常重视用户的隐私和个人信息保护。你在使用网站时，可能会收集和使用你的相关信息。通过《隐私政策》向你说明在你访问<a href="https://www.everett.top/"><strong>煎饼狗子的博客</strong></a>网站时，如何收集、使用、保存、共享和转让这些信息。</p><h2 id="最新更新时间"><a href="#最新更新时间" class="headerlink" title="最新更新时间"></a>最新更新时间</h2><p>&emsp;&emsp;协议最新更新时间为：<code>2025-02-19</code></p><h2 id="一、在访问时如何收集和使用你的个人信息"><a href="#一、在访问时如何收集和使用你的个人信息" class="headerlink" title="一、在访问时如何收集和使用你的个人信息"></a>一、在访问时如何收集和使用你的个人信息</h2><h3 id="在访问时，收集访问信息的服务会收集不限于以下信息："><a href="#在访问时，收集访问信息的服务会收集不限于以下信息：" class="headerlink" title="在访问时，收集访问信息的服务会收集不限于以下信息："></a>在访问时，收集访问信息的服务会收集不限于以下信息：</h3><ul><li><strong>网络身份标识信息</strong>（浏览器 UA、IP 地址）</li><li><strong>设备信息</strong></li><li><strong>浏览过程</strong>（操作方式、浏览方式与时长、性能与网络加载情况）。</li></ul><h3 id="在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息："><a href="#在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息：" class="headerlink" title="在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息："></a>在访问时，本站内置的第三方服务会通过以下或更多途径，来获取你的以下或更多信息：</h3><ul><li><strong>bing统计工具</strong> 会收集你的访问信息、访问操作过程</li><li><strong>busuanzi</strong> 统计 会收集你的访问信息</li><li><strong>网易云 音乐</strong> 会收集你的访问信息</li></ul><h3 id="在访问时，本人仅会处于以下目的，使用你的个人信息："><a href="#在访问时，本人仅会处于以下目的，使用你的个人信息：" class="headerlink" title="在访问时，本人仅会处于以下目的，使用你的个人信息："></a>在访问时，本人仅会处于以下目的，使用你的个人信息：</h3><ul><li>用于网站的优化与文章分类，用户优化文章</li><li>恶意访问识别，用于维护网站</li><li>恶意攻击排查，用于维护网站</li><li>网站点击情况监测，用于优化网站页面</li><li>网站加载情况监测，用于优化网站性能</li><li>用于网站搜索结果优化</li><li>浏览数据的展示</li></ul><h3 id="第三方信息获取方将您的数据用于以下用途："><a href="#第三方信息获取方将您的数据用于以下用途：" class="headerlink" title="第三方信息获取方将您的数据用于以下用途："></a>第三方信息获取方将您的数据用于以下用途：</h3><p>&emsp;&emsp;第三方可能会用于其他目的，详情请访问对应第三方服务提供的隐私协议。</p><h3 id="你应该知道在你访问的时候不限于以下信息会被第三方获取并使用："><a href="#你应该知道在你访问的时候不限于以下信息会被第三方获取并使用：" class="headerlink" title="你应该知道在你访问的时候不限于以下信息会被第三方获取并使用："></a>你应该知道在你访问的时候不限于以下信息会被第三方获取并使用：</h3><p>&emsp;&emsp;第三方部分为了抵抗攻击、使用不同节点 cdn 加速等需求会收集不限于以下信息</p><div class="table-wrap">  <table>    <thead>      <tr>        <th>类型<div style="width:100px"></div></th><th>信息</th>      </tr>    </thead>    <tbody>      <tr>        <td td="" colspan="2"><b>网络信息</b></td>      </tr>      <tr>        <td>IP地址</td><td><strong id="userAgentIp">未能获取到信息</strong></td>      </tr>      <tr>        <td>城市</td><td><strong id="userAgentCity">未能获取到信息</strong></td>      </tr>      <tr>        <td td="" colspan="2"><b>设备信息</b></td>      </tr>      <tr>        <td>系统</td><td><strong id="userAgentOs">未能获取到信息</strong></td>      </tr>    </tbody>  </table>  <div style="color:var(--anzhiyu-gray);font-size:14px">    此页面如果未能获取到信息并不代表无法读取上述信息，以实际情况为准。  </div>  </div>]]></content>
       
     </entry>
     
@@ -832,9 +799,9 @@
     
     
     <entry>
-      <title>我的相册</title>
-      <link href="/wordScenery/index.html"/>
-      <url>/wordScenery/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -854,9 +821,42 @@
     
     
     <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>时间轴</title>
+      <link href="/timeline/index.html"/>
+      <url>/timeline/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2025</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的相册页面</li></ul><img class="inline-img" src="https://www.helloimg.com/i/2025/03/23/67df8c0947f88.png" style="height:150px"/></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>03-08</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>支持我的装备页面</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-19</p></div></div><div class='timeline-item-content'><p><strong>主题升级</strong></p><ul><li>新增时间轴样式支持</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-18</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>增加侧边栏倒计时</li><li>更改侧边栏公告</li><li>增加侧边栏最近评论</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-17</p></div></div><div class='timeline-item-content'><p><strong>功能优化</strong></p><ul><li>优化文章排版，双栏改为单栏</li></ul><!-- timeline 02-11 --><p><strong>主题升级</strong></p><ul><li>支持评论系统，使用twikoo</li></ul></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>02-05</p></div></div><div class='timeline-item-content'><p><strong>技术探索</strong></p><ol><li>在github上部署Hexo博客</li><li>探索anzhiyu主题定制方法</li><li><mark class="hl-label green">完成度100%</mark></li></ol></div></div></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>最新评论</title>
+      <link href="/messages/index.html"/>
+      <url>/messages/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="author-content author-content-item single" style="background:url(https://dailybing.com/api/v1/) center /cover no-repeat!important">    <div class="card-content">        <div class="author-content-item-tips">速览</div>        <span class="author-content-item-title">最新评论</span>        <div class="content-bottom">            <div class="tips">快速预览本站最新评论</div>        </div>        <div class="banner-button-group">            <a class="banner-button" style="padding: 8px 12px;color: var(--anzhiyu-white);" onclick="pjax.loadUrl(&quot;/about&quot;)" data-pjax-state="">                <i class="anzhiyufont anzhiyu-icon-arrow-circle-right" style="font-size:22px;margin-right:.25rem"></i>                <span class="banner-button-text">关于本人</span>            </a>        </div>    </div></div><div id="comments-page">    <img src="https://lib.bsgun.cn/Hexo-static/img/loading.gif"></div><style>/* 全局样式 */h1 {    display: none;}div#page {    background: none !important;    box-shadow: none;    padding: 0;    border: none;}/* 评论页面容器 */#comments-page {    display: flex;    flex-wrap: wrap;    gap: 12px;    width: 100%;    margin-top: 1.5rem;    justify-content: center;}/* 评论卡片基础样式 */.comment-card {    position: relative;    width: calc(100% / 4 - 9px);    border-radius: 12px;    border: 1px solid var(--anzhiyu-card-border);    padding: 14px;    overflow: hidden;    box-shadow: var(--anzhiyu-shadow-border);    animation: slide-in .6s .4s backwards;    background-color: var(--anzhiyu-card-bg);    transition: all .3s ease-in-out;}.comment-card:hover {    border: 1px solid var(--anzhiyu-main);}/* 评论信息区域 */.comment-info {    padding-bottom: 5px;    border-bottom: 2px dashed var(--anzhiyu-theme-op);}.comment-information {    display: flex;    flex-direction: column;}.comment-user {    font-weight: bold;}.comment-time {    font-size: 12px;    color: var(--anzhiyu-secondtext);}/* 评论内容 */.comment-content {    position: relative;    z-index: 3;    overflow: hidden;    padding-top: 5px;    text-overflow: ellipsis;    display: -webkit-box;    -webkit-box-orient: vertical;    -webkit-line-clamp: 2;}/* 头像样式 */.avatar-wrapper {    position: absolute;    top: 50%;    right: 10px;    transform: translateY(-50%);    width: 100px;    height: 100px;    border-radius: 50%;    opacity: 0.4;    transition: all 0.3s ease-in-out;    filter: blur(3px);    background-size: cover;    background-position: center;}.comment-card:hover .avatar-wrapper {    transform: translateY(-50%) scale(1.1);    opacity: 0.6;}/* 响应式布局 */@media (max-width: 1024px) {    .comment-card {        width: calc(100% / 2 - 6px);    }}@media (max-width: 768px) {    .comment-card {        width: 100%;    }    .banner-button-group {        display: none;    }}</style><script>(() => {  const MessageComments = {    API_URL: 'https://twikoo.everett.fun/', // 这里填入你的Twikoo服务器地址    ADMIN_EMAIL_MD5: 'dd6f501927c7534b5e21a9dda1038da9d395258306c1a547944602776adc1223', // 这里填入你的邮箱md5值    PAGE_SIZE: 100, // 显示的评论数量 好像最多也就100个    async fetchComments() {      const controller = new AbortController();      const timeoutId = setTimeout(() => controller.abort(), 5000);      try {        const response = await fetch(this.API_URL, {          method: 'POST',          headers: { 'Content-Type': 'application/json' },          body: JSON.stringify({            event: 'GET_RECENT_COMMENTS',            includeReply: true,            pageSize: this.PAGE_SIZE          }),          signal: controller.signal        });        const { data } = await response.json();        return data;      } catch (error) {        console.error('获取评论出错:', error);        return null;      } finally {        clearTimeout(timeoutId);      }    },    formatTimeAgo(timestamp) {      const diff = Math.floor((Date.now() - new Date(timestamp)) / 1000);      if (diff < 60) return '刚刚';      if (diff < 3600) return `${Math.floor(diff / 60)}分钟前`;      if (diff < 86400) return `${Math.floor(diff / 3600)}小时前`;      if (diff < 604800) return `${Math.floor(diff / 86400)}天前`;      return new Date(timestamp).toLocaleDateString('zh-CN', { month: 'numeric', day: 'numeric' }) + '日';    },    formatContent(content) {      if (!content) return '';            return content        .replace(/<pre><code>[\s\S]*?<\/code><\/pre>/g, '[代码块]')        .replace(/<code>([^<]{4,})<\/code>/g, '[代码]')        .replace(/<code>([^<]{1,3})<\/code>/g, '$1')        .replace(/<img[^>]*>/g, '[图片]')        .replace(/<a[^>]*?>[\s\S]*?<\/a>/g, '[链接]')        .replace(/<[^>]+>/g, '')        .replace(/&(gt|lt|amp|quot|#39|nbsp);/g, m =>           ({'>':'>', '<':'<', '&':'&', 'quot':'"', '#39':"'", 'nbsp':' '})[m.slice(1,-1)])        .replace(/\s+/g, ' ')        .trim();    },    generateCommentHTML(comment) {      const { created, comment: content, url, avatar, nick, mailMd5, id } = comment;      const timeAgo = this.formatTimeAgo(created);      const formattedContent = this.formatContent(content);      const adminBadge = mailMd5 === this.ADMIN_EMAIL_MD5 ? '<i class="fa fa-check-circle" style="color: #57bd6a; margin-left: 5px;"></i>' : '';      return `        <div class="comment-card" onclick="pjax.loadUrl('${url}#${id}')" title="点击查看评论">          <div class="avatar-wrapper" style="background-image: url('${avatar}');"></div>          <div class="comment-info">            <div class="comment-information">              <span class="comment-user">                ${nick} ${adminBadge}              </span>              <span class="comment-time">${timeAgo}</span>            </div>          </div>          <div class="comment-content">${formattedContent}</div>        </div>      `;    },    getErrorTemplate(message) {      return `<p style="text-align: center; color: #666;">${message}</p>`;    },    async init() {      const container = document.querySelector('#comments-page');      if (!container) return;      const comments = await this.fetchComments();      let content;      if (comments === null) {        content = this.getErrorTemplate('加载评论时出错，请稍后再试');      } else if (comments.length === 0) {        content = this.getErrorTemplate('没有找到相关评论');      } else {        content = comments.map(this.generateCommentHTML.bind(this)).join('');      }      container.innerHTML = content;      requestAnimationFrame(() => {        container.querySelectorAll('.comment-card').forEach(el => {          el.style.opacity = '1';        });      });    }  };  ['DOMContentLoaded', 'pjax:success'].forEach(event =>     document.addEventListener(event, () => MessageComments.init())  );})();</script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的相册</title>
+      <link href="/wordScenery/index.html"/>
+      <url>/wordScenery/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
