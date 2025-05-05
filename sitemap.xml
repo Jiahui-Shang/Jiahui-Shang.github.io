@@ -407,34 +407,6 @@
 
   
   <url>
-    <loc>http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2025-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/</loc>
-    <lastmod>2025-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/</loc>
-    <lastmod>2025-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2025-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-05-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -463,6 +435,34 @@
   </url>
   
   <url>
+    <loc>http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://jiahui-shang.github.io/tags/DeepSeek/</loc>
     <lastmod>2025-05-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -477,6 +477,13 @@
   </url>
   
   <url>
+    <loc>http://jiahui-shang.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://jiahui-shang.github.io/tags/JavaScript/</loc>
     <lastmod>2025-05-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -485,13 +492,6 @@
   
   <url>
     <loc>http://jiahui-shang.github.io/tags/Hexo/</loc>
-    <lastmod>2025-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://jiahui-shang.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2025-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -528,13 +528,6 @@
 
   
   <url>
-    <loc>http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/</loc>
-    <lastmod>2025-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://jiahui-shang.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-05-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -550,6 +543,13 @@
   
   <url>
     <loc>http://jiahui-shang.github.io/categories/AI/</loc>
+    <lastmod>2025-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/</loc>
     <lastmod>2025-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
