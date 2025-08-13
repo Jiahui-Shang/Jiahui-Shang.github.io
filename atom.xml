@@ -6,7 +6,7 @@
   <link href="http://jiahui-shang.github.io/atom.xml" rel="self"/>
   
   <link href="http://jiahui-shang.github.io/"/>
-  <updated>2025-05-02T08:34:52.266Z</updated>
+  <updated>2025-08-13T13:20:06.588Z</updated>
   <id>http://jiahui-shang.github.io/</id>
   
   <author>
@@ -17,14 +17,45 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>好久不见</title>
+    <link href="http://jiahui-shang.github.io/2025/08/13/%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81/"/>
+    <id>http://jiahui-shang.github.io/2025/08/13/%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81/</id>
+    <published>2025-08-13T13:08:11.000Z</published>
+    <updated>2025-08-13T13:20:06.588Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>分享网站</title>
     <link href="http://jiahui-shang.github.io/2025/05/02/%E5%88%86%E4%BA%AB%E7%BD%91%E7%AB%99/"/>
     <id>http://jiahui-shang.github.io/2025/05/02/%E5%88%86%E4%BA%AB%E7%BD%91%E7%AB%99/</id>
     <published>2025-05-02T08:34:01.000Z</published>
-    <updated>2025-05-02T08:34:52.266Z</updated>
+    <updated>2025-08-13T13:19:25.544Z</updated>
     
     
-    <summary type="html">作者分享了一些他用的网站</summary>
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
     
     
     
@@ -510,11 +541,11 @@
     <category term="地理" scheme="http://jiahui-shang.github.io/categories/%E5%9C%B0%E7%90%86/"/>
     
     
-    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
-    
     <category term="开源" scheme="http://jiahui-shang.github.io/tags/%E5%BC%80%E6%BA%90/"/>
     
     <category term="天文" scheme="http://jiahui-shang.github.io/tags/%E5%A4%A9%E6%96%87/"/>
+    
+    <category term="地理" scheme="http://jiahui-shang.github.io/tags/%E5%9C%B0%E7%90%86/"/>
     
     <category term="前端" scheme="http://jiahui-shang.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
