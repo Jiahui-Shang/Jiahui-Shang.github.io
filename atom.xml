@@ -83,9 +83,9 @@
     <category term="生活" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
-    
     <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     <category term="随笔" scheme="http://jiahui-shang.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
@@ -225,42 +225,11 @@
     <category term="生活" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
+    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
     <category term="人工智能" scheme="http://jiahui-shang.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
-    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
-    
     <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>二月纪事</title>
-    <link href="http://jiahui-shang.github.io/2025/03/02/2025-3-2/"/>
-    <id>http://jiahui-shang.github.io/2025/03/02/2025-3-2/</id>
-    <published>2025-03-02T03:02:05.000Z</published>
-    <updated>2025-03-23T01:24:21.689Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    <category term="生活" scheme="http://jiahui-shang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="日常" scheme="http://jiahui-shang.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-    <category term="随笔" scheme="http://jiahui-shang.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-    <category term="摘录" scheme="http://jiahui-shang.github.io/tags/%E6%91%98%E5%BD%95/"/>
-    
-    <category term="月度总结" scheme="http://jiahui-shang.github.io/tags/%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
@@ -338,33 +307,6 @@
     <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
     <category term="Hexo" scheme="http://jiahui-shang.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>anzhiyu主题的一些用法</title>
-    <link href="http://jiahui-shang.github.io/2025/02/19/anzhiyu%E4%B8%BB%E9%A2%98%E7%9A%84%E4%B8%80%E4%BA%9B%E7%94%A8%E6%B3%95/"/>
-    <id>http://jiahui-shang.github.io/2025/02/19/anzhiyu%E4%B8%BB%E9%A2%98%E7%9A%84%E4%B8%80%E4%BA%9B%E7%94%A8%E6%B3%95/</id>
-    <published>2025-02-19T01:35:00.000Z</published>
-    <updated>2025-03-08T07:26:09.395Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    <category term="笔记" scheme="http://jiahui-shang.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="教程" scheme="http://jiahui-shang.github.io/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="笔记" scheme="http://jiahui-shang.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
